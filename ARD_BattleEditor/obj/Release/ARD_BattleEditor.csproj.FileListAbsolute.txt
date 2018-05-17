@@ -1,0 +1,10 @@
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\bin\Release\ARD_BattleEditor.exe.config
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\bin\Release\ARD_BattleEditor.exe
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\bin\Release\ARD_BattleEditor.pdb
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\obj\Release\ARD_BattleEditor.Form1.resources
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\obj\Release\ARD_BattleEditor.Properties.Resources.resources
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\obj\Release\ARD_BattleEditor.csproj.GenerateResource.cache
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\obj\Release\ARD_BattleEditor.csproj.CoreCompileInputs.cache
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\obj\Release\ARD_BattleEditor.exe
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\obj\Release\ARD_BattleEditor.pdb
+C:\Users\verda\Documents\Visual Studio 2017\Projects\ARD_BattleEditor\ARD_BattleEditor\obj\Release\ARD_BattleEditor.csprojResolveAssemblyReference.cache

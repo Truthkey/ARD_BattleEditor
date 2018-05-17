@@ -1,0 +1,2515 @@
+0000 - "Freeze"
+0001 - Fat Bandit (Gegner! / Enemy!)
+0002 - Trick Ghost (Gegner! / Enemy!)
+0003 - Rabid Dog (Gegner! / Enemy!)
+0004 - Hook Bat (Gegner! / Enemy!)
+0005 - Bookmaster (Gegner! / Enemy!)
+0006 - Aeroplane (Gegner! / Enemy!)
+0007 - Minute Bomb (Gegner! / Enemy!)
+0008 - Hammer Frame (Gegner! / Enemy!)
+0009 - Assault Rider (Gegner! / Enemy!)
+000A - Nightwalker (Gegner! / Enemy!)
+000B - Fortuneteller (Gegner! / Enemy!)
+000C - Luna Knight (Gegner! / Enemy!)
+000D - Hot Rod (Gegner! / Enemy!)
+000E - Cannon Gun (Gegner! / Enemy!)
+000F - Living Bone (ohne Schamane / without Shaman) (Gegner! / Enemy!)
+0010 - Devastator (Gegner! / Enemy!)
+0011 - Lance Soldier (Gegner! / Enemy!)
+0012 - Drilling / Mole Driller (Gegner! / Enemy!)
+0013 - Shamane / Shaman (Gegner! / Enemy!)
+0014 - Flugboxer / Aerial Knocker (Gegner! / Enemy!)
+0015 - Shan-Yu (Boss!)
+0016 - Hayabusa (Shan-Yus Falke / Shan-Yu's Falcon) (Boss!)
+0017 - Fackelst舅der/ Standing Torch (Objekt / Object)
+0018 - Blaue Barriere / Blue Barrier (Objekt / Object)
+0019 - Nebelkugel / Mist Sphere (Objekt / Object)
+001A - "Unsichtare R・tung" / "Invisible Armor" (Objekt / Object)
+001B - "Freeze"
+001C - "Freeze"
+001D - "Freeze"
+001E - Gulliver-Kanone (Objekt / Object)
+001F - Unruh / Cogsworth (NPC)
+0020 - Lumiere (NPC)
+0021 - Madame Pottine / Mrs. Potts (NPC)
+0022 - Madame Kommode / Armoire The Wardrobe (NPC)
+0023 - "Nichts" / "Nothing"
+0024 - "Nichts" / "Nothing"
+0025 - "Nichts" / "Nothing"
+0026 - "Nichts" / "Nothing"
+0027 - Hercules (T-Pose / T-Stance) (Dummy) 
+0028 - "Nichts" / "Nothing"
+0029 - "Nichts" / "Nothing"
+002A - "Freeze"
+002B - "Freeze"
+002C - "Freeze"
+002D - "Freeze"
+002E - "Freeze"
+002F - "Freeze"
+0030 - "Freeze"
+0031 - "Freeze"
+0032 - "Freeze"
+0033 - "Freeze"
+0034 - "Freeze"
+0035 - "Fels mit Ringen" / "Rock with Rings" (Objekt / Object) (Dummy) 
+0036 - "groﾟes goldenartige Tor" / "big goldenlike Door" (Objekt / Object) (Dummy) 
+0037 - "groﾟes goldenartige Tor" / "big goldenlike Door" (Objekt / Object) (Dummy) 
+0038 - "groﾟe Unterwelt Tor" / "big Underworld Door" (Objekt / Object) (Dummy) 
+0039 - "groﾟes gr・es Tor" / "big green Door" (Objekt / Object) (Dummy) 
+003A - "Ketten-Ding" / "Chain-Thing" (Objekt / Object) (Dummy) 
+003B - "M・zenartiges Ding auf dem Boden" / "Coinlike thing on the ground" (Objekt / Object) (Dummy) 
+003C - Panic & Pain Cup (Objekt / Object) (Dummy) 
+003D - "Freeze"
+003E - "Freeze"
+003F - "Freeze"
+0040 - "Freeze"
+0041 - "Freeze"
+0042 - "Freeze"
+0043 - "Freeze"
+0044 - "Freeze"
+0045 - "Freeze"
+0046 - "Freeze"
+0047 - Silberling / Silver Rock (Gegner! / Enemy!)
+0048 - Saphirling / Emerald Blues (Gegner! / Enemy!)
+0049 - Purpurling / Crimson Jazz (Gegner! / Enemy!)
+004A - Luftpirat / Air Pirate (Gegner! / Enemy!)
+004B - Freudenspender / Bulky Vendor (Gegner! / Enemy!)
+004C - Kugelfeuer / Fiery Globe (Gegner! / Enemy!)
+004D - W・feleis / Icy Cube (Gegner! / Enemy!)
+004E - "Freeze"
+004F - "Freeze"
+0050 - "Freeze"
+0051 - Axel (Twilight Town, 2. Kampf) (Boss!)
+0052 - "Freeze"
+0053 - "Freeze"
+0054 - Sora
+0055 - Sora (Helden-Form / Valor-Form)
+0056 - Sora (Weisen-Form / Wisdom Form)
+0057 - Sora (Meister-Form / Master-Form)
+0058 - Sora (ﾜber-Form / Final-Form)
+0059 - Sora (Anti-Form)
+005A - Roxas 
+005B - Micky / Mickey (mit Kutte / with Coat)
+005C - Donald
+005D - Goofy
+005E - Biest
+005F - Jack (Halloween Town)
+0060 - Jack (Christmas Town)
+0061 - Simba
+0062 - Aladdin
+0063 - Mulan
+0064 - Ping
+0065 - Auron
+0066 - Sparrow
+0067 - Kigsanh舅ger / Kingdom Key (Objekt / Object) (Dummy)
+0068 - Sternentreue / Oathkeeper (Objekt / Object) (Dummy)
+0069 - Memoire / Oblivion (Objekt / Object) (Dummy)
+006A - Glitchy KHI Ultima (Objekt / Object) (Dummy)
+006B - Glitchy KHI Ultima (Objekt / Object) (Dummy)
+006C - Zauberstab (Dummy)
+006D - Ritterschild (Dummy)
+006E - Schild (Dummy)
+006F - Krumms臙el (Dummy)
+0070 - Schlachtengef臧rte (Dummy)
+0071 - Ahnenschwert(Dummy)
+0072 - Mushu (Dummy)
+0073 - Totenkopfschwert (Dummy)
+0074 - Mickys Schl・selschwert / Mickeys Keyblade (Dummy)
+0075 - Nichts? / Nothing? 
+0076 - Gigg-Schack / Wight Knight (Gegner! / Enemy!)
+0077 - Gigg-Schack / Wight Knight (Halloween Town) (Gegner! / Enemy!)
+0078 - Schattenschalk / Neoshadow (Gegner! / Enemy!)
+0079 - Tetrabot / Magnum Loader (Gegner! / Enemy!)
+007A - Morgenstern / Morningstar (Gegner! / Enemy!)
+007B - Tornado-T舅zer / Tornado Step (Gegner! / Enemy!)
+007C - Crescendo (Gegner! / Enemy!)
+007D - Schauderplanze / Creeper Plant (Gegner! / Enemy!)
+007E - Oogie Boogie (Boss!)
+007F - Furcht / Lock (Boss!)
+0080 - Angst / Shock (Boss!)
+0081 - Schrecken / Barrel (Boss!)
+0082 - Teppich / Carpet (Dummy)
+0083 - "Freeze"
+0084 - "Freeze"
+0085 - "Freeze"
+0086 - "Freeze"
+0087 - Dschinni / Genie  (T-Pose / T-Stance) (Dummy) 
+0088 - Aladdin (T-Pose / T-Stance) (Dummy) 
+0089 - Dschafar / Jafar (T-Pose / T-Stance) (Dummy) 
+008A - Dschafar / Jafar (T-Pose / T-Stance) (Dummy) 
+008B - "Freeze"
+008C - "Freeze"
+008D - "Freeze"
+008E - W・tenr舫ber / Bandit (Gegner aus KHI / Enemy from KHI) (Dummy)
+008F - "Kiste" / "Box" (Objekt / Object) (Dummy) 
+0090 - "Wagen aus Agrabah" / "Wagon from Agrabah" (Objekt / Object) (Dummy) 
+0091 - "Rotes Ei? / "Red Egg?" (Objekt / Object) (Dummy) 
+0092 - "Graue Plattform" / "Grey Platform" (Objekt / Object) (Dummy) 
+0093 - "Goldene Affenstatue" / "Golden Monkey Statue (Objekt / Object) (Dummy) 
+0094 - "Violette Treppen" / "Violet Stairs" (Objekt / Object) (Dummy) 
+0095 - "Rotes Tor" / "Red Door" (Objekt / Object) (Dummy) 
+0096 - "Roter Krug" / "Red Pot" (Objekt / Object) (Dummy)
+0097 - Dschafars Wunderlampe / Jafars Magic Lamp (Objekt / Object) (Dummy)
+0098 - "Dach von einem Agrabah Haus" / "Roof from a Agrabah House" (Objekt / Object) (Dummy)
+0099 - "Brauner Krug" / "Brown Pot" (Objekt / Object) (Dummy)
+009A - "Roter Vorhang" / "Red Curtain" (Objekt / Object) (Dummy)
+009B - "Goldene Dschinn Statue" / "Golden Genie Statue (Objekt / Object) (Dummy)
+009C - "kleine violette Pryamide" / "tiny violet pyramid" (Objekt / Object) (Dummy)
+009D - "Orange Statue aus'm Agrabah Dungeon" / "Orange Statue from the Agrabah Dungeon" (Objekt / Object) (Dummy)
+009E - "Braune Statue aus'm Agrabah Dungeon" / "Brown Statue from the Agrabah Dungeon" (Objekt / Object) (Dummy)
+009F - "Arielles Schwester Orange" / "Ariel's Sister Orange" (T-Pose / T-Stance) (Dummy)
+00A0 - "Arielles Schwester Violet" / "Ariel's Sister Violet" (T-Pose / T-Stance) (Dummy)
+00A1 - Fabius (Dummy)
+00A2 - "Rochen" / "Stingray" (Dummy)
+00A3 - "Tintenfisch mit Bongos" / "Calamari with Bongos" (Dummy)
+00A4 - "Schnecke" / "Snail" (Dummy)
+00A5 - "Schnecke mit Trompete" / "Snail with Trumpet" (Dummy)
+00A6 - "Qualle" / "Jellyfish" (Dummy)
+00A7 - "Blauer Fisch" / "Blue Fish" (Dummy)
+00A8 - "Hai" / "Shark" (Dummy)
+00A9 - "Freeze"
+00AA - "Freeze"
+00AB - "Freeze"
+00AC - "Freeze"
+00AD - "Freeze"
+00AE - "Freeze"
+00AF - "Freeze"
+00B0 - Zero (Jacks Hund / Jack's Dog) (Dummy)
+00B1 - "Freeze"
+00B2 - "Freeze"
+00B3 - "Freeze"
+00B4 - "Freeze"
+00B5 - "Badewanne" / "Bathtub" (Dummy)
+00B6 - "Freeze"
+00B7 - Sora (Angreifbar / Attackable) (T-Pose / T-Stance) (Dummy) 
+00B8 - "Freeze"
+00B9 - Donald (Angreifbar / Attackable) (T-Pose / T-Stance) (Dummy)
+00BA - "Freeze"
+00BB - "Freeze"
+00BC - "Freeze"
+00BD - "Freeze"
+00BE - "Freeze"
+00BF - "Freeze"
+00C0 - "Freeze"
+00C1 - "Freeze"
+00C2 - "Freeze"
+00C3 - "Freeze"
+00C4 - "Freeze"
+00C5 - "Freeze"
+00C6 - "Freeze"
+00C7 - "Freeze"
+00C8 - Helden-Form / Valor-Form (Dummy)
+00C9 - DiZ (T-Pose / T-Stance) (Dummy)
+00CA - Micky / Mickey (mit Kutte / with Coat) (T-Pose / T-Stance)  (Dummy)
+00CB - Karlo / Pete (T-Pose / T-Stance) (Dummy)
+00CC - Hercules (T-Pose / T-Stance) (Dummy) 
+00CD - Megara (T-Pose / T-Stance) (Dummy) 
+00CE - Auron (T-Pose / T-Stance) (Dummy) 
+00CF - Hades (T-Pose / T-Stance) (Dummy)
+00D0 - Das Biest / The Beast (Dummy)
+00D1 - Belle (T-Pose / T-Stance) (Dummy)
+00D2 - Groﾟer Dschinni / Big Genie (T-Pose / T-Stance) (Dummy)
+00D3 - Jasmin / Jasmine (T-Pose / T-Stance) (Dummy)
+00D4 - Li Shang (T-Pose / T-Stance) (Dummy)
+00D5 - Mulan (T-Pose / T-Stance) (Dummy)
+00D6 - Ping (T-Pose / T-Stance) (Dummy)
+00D7 - Mushu (T-Pose / T-Stance) (Dummy)
+00D8 - Jack (Weinachtskost・ / Christmas Costume) 
+00D9 - Jack Sparrow (T-Pose / T-Stance) (Dummy)
+00DA - Behemoth (Gegner aus KHI / Enemy from KHI) (Dummy)
+00DB - Wyvern (Blau / Blue) (Gegner aus KHI / Enemy from KHI) (Dummy)
+00DC - Schatten-Infanterist / Armored Knight (Gegner! / Enemy!) (Dummy)
+00DD - Wachroboter (Gegner! / Enemy!) (Dummy)
+00DE - "Namin駸 Zeichenblock" / "Namin駸 Sketchblock" (Objekt / Object) (Dummy)
+00DF - "Buntstift" / "Crayon" (Objekt / Object) (Dummy)
+00E0 - "Puppe" / "Doll" (Objekt / Object) (Dummy)
+00E1 - Vierkristalltroph臚 / Four Crystal Trophy (Objekt / Object) (Dummy)
+00E2 - "Rote Murmel" / "Red Marble" (Objekt / Object) (Dummy)
+00E3 - "Blaue Murmel" / "Blue Marble" (Objekt / Object) (Dummy)
+00E4 - "Gelbe Murmel" / "Yellow Marble" (Objekt / Object) (Dummy)
+00E5 - "Gr・e Murmel" / "Green Marble" (Objekt / Object) (Dummy)
+00E6 - "Twilight Town Zug" / "Twilight Town Train" (Objekt / Object) (Dummy)
+00E7 - "Barriere" / "Barrier" (Objekt / Object) (Dummy)
+00E8 - "Freeze"
+00E9 - "Freeze"
+00EA - "Freeze"
+00EB - "Freeze"
+00EC - Kairi (Schuluniform / School Uniform) (T-Pose / T-Stance) (Dummy)
+00ED - DiZ (T-Pose / T-Stance) (Dummy)
+00EE - "Kuttenmann" / "Man with Coat" (T-Pose / T-Stance) (Dummy)
+00EF - Karlo / Pete (T-Pose / T-Stance) (Dummy)
+00F0 - "Kuttenmann" / "Man with Coat" (T-Pose / T-Stance) (Dummy)
+00F1 - "Freeze"
+00F2 - "Freeze"
+00F3 - "Freeze"
+00F4 - "Freeze"
+00F5 - "Freeze"
+00F6 - "Freeze"
+00F7 - "Freeze"
+00F8 - "Freeze"
+00F9 - "Freeze"
+00FA - "Freeze"
+00FB - "Freeze"
+00FC - "Freeze"
+00FD - "Freeze"
+00FE - "Freeze"
+00FF - "Freeze"
+0100 - "Freeze"
+0101 - "Freeze"
+0102 - "Freeze"
+0103 - "Freeze"
+0104 - Sora (Kingdom Hearts I) (T-Pose / T-Stance) (Dummy)
+0105 - Donald (T-Pose / T-Stance) (Dummy)
+0106 - Goofy (T-Pose / T-Stance) (Dummy)
+0107 - Goofy (Chain of Memories) (T-Pose / T-Stance) (Dummy)
+0108 - Sora (T-Pose / T-Stance) (Dummy)
+0109 - Sora (T-Pose / T-Stance) (Halloween Town) (Dummy)
+010A - Axel (T-Pose / T-Stance) (Dummy)
+010B - "Freeze"
+010C - "Freeze"
+010D - "Freeze"
+010E - "Freeze"
+010F - "Freeze"
+0110 - "Freeze"
+0111 - "Freeze"
+0112 - "Freeze"
+0113 - "Freeze"
+0114 - "Freeze"
+0115 - "Freeze"
+0116 - "Freeze"
+0117 - "Freeze"
+0118 - "Freeze"
+0119 - "Freeze"
+011A - Li Shang (T-Pose / T-Stance) (Dummy)
+011B - Yao (T-Pose / T-Stance) (Dummy)
+011C - Chien-Po (T-Pose / T-Stance) (Dummy)
+011D - Ling (T-Pose / T-Stance) (Dummy)
+011E - Der Kaiser von China / Emperor of China (T-Pose / T-Stance) (Dummy)
+011F - Chinesischer Soldat / Chinese Soldier (T-Pose / T-Stance) (Dummy)
+0120 - Chinesischer Soldat 2 / Chinese Soldier 2 (T-Pose / T-Stance) (Dummy)
+0121 - Mushu (T-Pose / T-Stance) (Dummy)
+0122 - "kleiner roter Drache" / "tiny dark red Dragon" (T-Pose / T-Stance) (Dummy)
+0123 - "kleiner Drachenkopf" / "tiny Dragon Head" (T-Pose / T-Stance) (Dummy)
+0124 - "Feuerwerk" / "Firework" (Objekt / Object) (Dummy)
+0125 - "Shan-Yus Schwert" / "Shan-Yus Sword" (Objekt / Object) (Dummy)
+0126 - "groﾟes rotes Palasttor" / "great red Palace Gate" (Objekt / Object) (Dummy)
+0127 - Li Shang
+0128 - Auron (NPC) (ohne Schwert / withouth Sword)
+0129 - "Stift?" / "Pen?" (Objekt / Object) (Dummy)
+012A - Hades (seltames Verhalten / strange behavior)
+012B - "Freeze"
+012C - "Freeze"
+012D - Klappersoldat / Soldier (Gegner! / Enemy!)
+012E - Schattenlurch / Shadow (Gegner! / Enemy!)
+012F - Adowampe / Large Body (Gegner! / Enemy!)
+0130 - Propellerdrohne / Rapid Thruster  (Gegner! / Enemy!)
+0131 - Schatten-Infanterist / Armored Knight (Gegner! / Enemy!)
+0132 - Wachroboter / Surveillance Robot (Gegner! / Enemy!)
+0133 - Twilight-Dorn / Twilight Thorn (Boss!)
+0134 - Dragoner / Dragoon (Gegner! / Enemy!)
+0135 - Meuchler / Assassin (Gegner! / Enemy!)
+0136 - Samurai (Gegner! / Enemy!)
+0137 - Scharfsch・ze / Sniper (Gegner! / Enemy!)
+0138 - T舅zer / Dancer (Gegner! / Enemy!)
+0139 - Berserker (Gegner! / Enemy!)
+013A - Spieler / Gambler (Gegner! / Enemy!)
+013B - Beschwer / Sorcerer (Gegner! / Enemy!)
+013C - Beschwer v2 / Sorcerer v2 (Gegner! / Enemy!)
+013D - Kriecher / Creeper (Gegner! / Enemy!)
+013E - D舂merling / Dusk (Gegner! / Enemy!)
+013F - "Nichts" / "Nothing"
+0140 - "kleine Schatzkiste" / "little treasure chest" (Das Land der Drachen / Land of the Dragons) (Objekt / Object)
+0141 - "kleine Schatzkiste" / "little treasure chest" (Ort des Erwachens / Station of Serenity) (Objekt / Object)
+0142 - "kleine Schatzkiste" / "little treasure chest" (Agrabah) (Objekt / Object)
+0143 - "kleine Schatzkiste" / "little treasure chest" (Space Paranoids) (Objekt / Object)
+0144 - "Schatzkiste" / "Treasure Chest" (Objekt / Object)
+0145 - "Schatzkiste" / "Treasure Chest" (Space Paranoids) (Objekt / Object)
+0146 - "Freeze"
+0147 - "Nichts" / "Nothing"
+0148 - "arabisches Schild" / "arabian Sign" (Objekt / Object) (Dummy)
+0149 - "Schatzbox" / "Treasure Box" (Objekt / Object)
+014A - Abu (mit Edelstein / with Gem)
+014B - "zerstbarer Fels" / "destructable Rock" (Reaktionskommando / Reaction Command) (Objekt / Object)
+014C - "zerstbarer Fels" / "destructable Rock" (Reaktionskommando / Reaction Command) (Objekt / Object)
+014D - "zerstbarer Fels" / "destructable Rock" (Reaktionskommando / Reaction Command) (Objekt / Object)
+014E - "Feuerwerk" / "Firework" (Objekt / Object)
+014F - "Feuerwerk (Rakete)" / "Firework (Rocket)" (Objekt / Object)
+0150 - "Drive-Kugel Wagon" / "Drive Orb Wagon" (Objekt / Object)
+0151 - "Windritt" (Reaktionskommando / Reaction Command)
+0152 - "Nichts" / "Nothing"
+0153 - "Nichts" / "Nothing"
+0154 - "Nichts" / "Nothing"
+0155 - "Nichts" / "Nothing"
+0156 - "Nichts" / "Nothing"
+0157 - "Freeze"
+0158 - "Funke?" / "Sparkle?" (Gegner! / Enemy!)
+0159 - "Weiﾟes Feuer" / "White Fire" (Gegner! / Enemy!)
+015A - "Freeze"
+015B - "Freeze"
+015C - Dschafar / Jafar (Djinn) (Boss!)
+015D - Hades (1. & 2. Kampf / Battle) (Boss!)
+015E - Hades (3. & Paradox Hades Cup-Kampf / Battle) (Boss!)
+015F - Zerberus / Cerberus (Boss!)
+0160 - Hydra (Boss!)
+0161 - Torw臘hter / Thresholder (Boss!)
+0162 - Dunkeltroll / Dark Thorn (Boss!)
+0163 - Kettenbalg / Shadow Stalker (Boss!)
+0164 - "Nichts" / "Nothing"
+0165 - Sturmreiter / Storm Rider (Boss!)
+0166 - Illuminator (Boss!)
+0167 - Karlo / Pete (Fluss der Nostalgie / Timeless River) (Boss!)
+0168 - Sora auf Teppich / Sora on Carpet
+0169 - Auron (K.O.)
+016A - Hercules (Partner!)
+016B - "Nichts" / "Nothing"
+016C - "Nichts" / "Nothing"
+016D - Megara (anfeuernd? / cheering?)
+016E - Megara (gefesselt / enchained)
+016F - Gargoyle-Ritter / Gargoyle Knight (Gegner! / Enemy!)
+0170 - Gargoyle-Krieger / Gargoyle Warrior (Gegner! / Enemy!)
+0171 - "Felsbrocken?" / "Rock?" (Objekt / Object)
+0172 - "Felsbrocken?" / "Rock?" (Objekt / Object)
+0173 - "Felsbrocken?" / "Rock?" (Objekt / Object)
+0174 - "Felsbrocken?" / "Rock?" (Objekt / Object) 
+0175 - "Freeze"
+0176 - "Freeze"
+0177 - "Freeze"
+0178 - "Freeze"
+0179 - "Pferdekopf Statue" / "Horse Head Statue" (Objekt / Object)
+017A - "Alien Monument" (Objekt / Object)
+017B - "Alien Monument 2" (Objekt / Object) 
+017C - "Karussel" / "Roundabout" (Objekt / Object) 
+017D - "Freeze"
+017E - "Freeze"
+017F - "Freeze"
+0180 - "Freeze"
+0181 - "Freeze"
+0182 - "Goldene Hand mit Schwert" / "Golden Hand with Sword" (Objekt / Object) (Dummy)
+0183 - "Goldener Statuen Kopf" / "Golden Statue Head" (Objekt / Object) (Dummy)
+0184 - "Freeze"
+0185 - Das Biest / The Beast (Prinz Klamotten/ Prince Outfit)
+0186 - Belle (NPC)
+0187 - Belle (Ball Dress)
+0188 - Unruh / Cogsworth (Dummy)
+0189 - Lumiere (Dummy)
+018A - Madame Pottine / Mrs. Potts (Dummy)
+018B - Madame Kommode / Armoire The Wardrobe (Dummy)
+018C - Madame Kommode / Armoire The Wardrobe
+018D - "Kommode" / "Wardrobe" (Objekt / Object)
+018E - "Kuttenmann" / "Man with Coat" (Dummy)
+018F - Das Biest / The Beast (Menschen Form / Human Form) (T-Pose / T-Stance) (Dummy)
+0190 - "Torw臘hter Tor" / "Thresholder Door" (Objekt / Object) (Dummy)
+0191 - Das Biest / The Beast (Dummy)
+0192 - Belle (Dummy)
+0193 - Unruh / Cogsworth
+0194 - Lumiere 
+0195 - Madame Pottine / Mrs. Potts (Dummy)
+0196 - "Glocke?" / "Bell?" (Objekt / Object) (Dummy)
+0197 - "Ritter R・tung" 1 / "Knight Armor" 1 (Objekt / Object) (Dummy)
+0198 - "Ritter R・tung" 2 / "Knight Armor" 2 (Objekt / Object) (Dummy)
+0199 - "Ritter R・tung" 3 / "Knight Armor" 3 (Objekt / Object) (Dummy)
+019A - "Ritter R・tung" 4 / "Knight Armor" 4 (Objekt / Object) (Dummy)
+019B - "Violettes Holztor" / "Violet Wooden Door" (Objekt / Object) (Dummy)
+019C - "Braunes Holztor" / "Brown Wooden Door" (Objekt / Object) (Dummy)
+019D - "Blaues Holztor" / "Blue Wooden Door" (Objekt / Object) (Dummy)
+019E - "Fenster vom Ball Raum" / "Window from Ball Room" (Objekt / Object) (Dummy)
+019F - "Groﾟes Tor" / "Great Door" (Objekt / Object) (Dummy)
+01A0 - "Blaues Holztor 2" / "Brown Wooden Door 2" (Objekt / Object) (Dummy)
+01A1 - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+01A2 - "1000 Herzlosen Kampffront" / "1000 Heartless Battlefront" (Objekt / Object) (Dummy)
+01A3 - "1000 Herzlosen Kampffront" / "1000 Heartless Battlefront" (Animation) (Objekt / Object) (Dummy)
+01A4 - "1000 Herzlosen Kampffront" / "1000 Heartless Battlefront" (T-Pose / T-Stance) (Objekt / Object) (Dummy)
+01A5 - "Junge aus Twilight Town" / "Boy from Twilight Town" (T-Pose / T-Stance) (Dummy)
+01A6 - 舁tere Frau / older Woman (T-Pose / T-Stance) (Dummy)
+01A7 - kleines M臈chen / little Girl (T-Pose / T-Stance) (Dummy)
+01A8 - Mann mit blauem Hemd / Man with a blue Shirt (T-Pose / T-Stance) (Dummy)
+01A9 - Typ mit weiﾟem Hemd / Guy with a white shirt (T-Pose / T-Stance) (Dummy)
+01AA - Woman with a white Skirt (T-Pose / T-Stance) (Dummy)
+01AB - Girl with a orange Skirt (T-Pose / T-Stance) (Dummy)
+01AC - old Woman (T-Pose / T-Stance)  (Dummy)
+01AD - old Man (T-Pose / T-Stance) ( (Dummy)
+01AE - Marluxia (T-Pose / T-Stance) 
+01AF - Larxene (T-Pose / T-Stance)
+01B0 - Lexaeus (T-Pose / T-Stance)
+01B1 - Zexion (T-Pose / T-Stance)
+01B2 - Vexen (T-Pose / T-Stance)
+01B3 - "Rainbow Namin・ (T-Pose / T-Stance)
+01B4 - Marluxia (T-Pose / T-Stance) (Dummy)
+01B5 - Lexaeus (T-Pose / T-Stance) (Dummy)
+01B6 - Vexen (T-Pose / T-Stance) (Dummy)
+01B7 - Namin・(T-Pose / T-Stance) (Dummy)
+01B8 - Riku (KHI, Org. Outfit) (T-Pose / T-Stance) (Dummy)
+01B9 - Riku (KHI) (T-Pose / T-Stance) (Dummy)
+01BA - Kairi (KHI) (T-Pose / T-Stance) (Dummy)
+01BB - Squall / Leon (KHI) (T-Pose / T-Stance) (Dummy)
+01BC - Yuffie (KHI) (T-Pose / T-Stance) (Dummy)
+01BD - Aerith (KHI) (T-Pose / T-Stance) (Dummy)
+01BE - Cid (KHI) (T-Pose / T-Stance) (Dummy)
+01BF - Tidus (KHI) (T-Pose / T-Stance) (Dummy)
+01C0 - Selphi (KHI) (T-Pose / T-Stance) (Dummy)
+01C1 - Wakka (KHI) (T-Pose / T-Stance) (Dummy)
+01C2 - "Star Chain" (Objekt / Object) (Dummy)
+01C3 - "Star Chain" (Objekt / Object) (Dummy)
+01C4 - "A Terminal from Space Paranoids" (Objekt / Object) 
+01C5 - "Freeze"
+01C6 - "Freeze"
+01C7 - "Freeze"
+01C8 - "Freeze"
+01C9 - "Freeze"
+01CA - "Freeze"
+01CB - "Freeze"
+01CC - "Freeze"
+01CD - "Freeze"
+01CE - "Freeze"
+01CF - "Freeze"
+01D0 - "Freeze"
+01D1 - "Freeze"
+01D2 - "Freeze"
+01D3 - "Freeze"
+01D4 - "Freeze"
+01D5 - "Freeze"
+01D6 - "Freeze"
+01D7 - "Freeze"
+01D8 - "Freeze"
+01D9 - "Freeze"
+01DA - "Freeze"
+01DB - "Freeze"
+01DC - "Freeze"
+01DD - "Freeze"
+01DE - "Freeze"
+01DF - "Freeze"
+01E0 - "Freeze"
+01E1 - "Freeze"
+01E2 - "Freeze"
+01E3 - "Freeze"
+01E4 - "Freeze"
+01E5 - "Freeze"
+01E6 - "Freeze"
+01E7 - "Freeze"
+01E8 - "Freeze"
+01E9 - "Freeze"
+01EA - "Freeze"
+01EB - "Freeze"
+01EC - "Freeze"
+01ED - "Freeze"
+01EE - "Freeze"
+01EF - "Freeze"
+01F0 - "Freeze"
+01F1 - "Freeze"
+01F2 - "Freeze"
+01F3 - "Freeze"
+01F4 - "Freeze"
+01F5 - "Freeze"
+01F6 - "Freeze"
+01F7 - "Freeze"
+01F8 - "Freeze"
+01F9 - "Freeze"
+01FA - "Freeze"
+01FB - "Freeze"
+01FC - "Freeze"
+01FD - "Freeze"
+01FE - "Freeze"
+01FF - "Freeze"
+0200 - "Freeze"
+0201 - "Freeze"
+0202 - "Freeze"
+0203 - "Freeze"
+0204 - "Freeze"
+0205 - "Freeze"
+0206 - "Freeze"
+0207 - "Freeze"
+0208 - "Freeze"
+0209 - "Freeze"
+020A - "Freeze"
+020B - "Freeze"
+020C - "Freeze"
+020D - "Freeze"
+020E - "Freeze"
+020F - "Freeze"
+0210 - "Freeze"
+0211 - "Freeze"
+0212 - "Freeze"
+0213 - "Freeze"
+0214 - "Freeze"
+0215 - "Freeze"
+0216 - "Freeze"
+0217 - "Freeze"
+0218 - "Freeze"
+0219 - "Freeze"
+021A - "Freeze"
+021B - "Freeze"
+021C - "Freeze"
+021D - "Freeze"
+021E - "Freeze"
+021F - "Freeze"
+0220 - "Freeze"
+0221 - "Freeze"
+0222 - "Freeze"
+0223 - "Freeze"
+0224 - "Freeze"
+0225 - "Freeze"
+0226 - "Freeze"
+0227 - "Freeze"
+0228 - "Freeze"
+0229 - "Freeze"
+022A - "Freeze"
+022B - "Freeze"
+022C - "Freeze"
+022D - "Freeze"
+022E - "Freeze"
+022F - "Freeze"
+0230 - "Freeze"
+0231 - "Freeze"
+0232 - "Freeze"
+0233 - "Freeze"
+0234 - "Freeze"
+0235 - "Freeze"
+0236 - PLAYER
+0237 - FRIEND1
+0238 - FRIEND2
+0239 - Save Point (with World Map Option) 
+023A - Save Point
+023B - Sora (Dummy)
+023C - Sora (Dummy)
+023D - Kingdom Keyblade (Dummy)
+023E - Oathkeeper (Dummy)
+023F - Mage's Staff (Dummy)
+0240 - Knight's Shield (Dummy)
+0241 - "Freeze"
+0242 - "Freeze"
+0243 - "Freeze"
+0244 - "Freeze"
+0245 - "Freeze"
+0246 - "Freeze"
+0247 - "Freeze"
+0248 - "Freeze"
+0249 - "Freeze"
+024A - "Freeze"
+024B - "Freeze"
+024C - "Freeze"
+024D - "Freeze"
+024E - "Freeze"
+024F - "Freeze"
+0250 - "Freeze"
+0251 - "Freeze"
+0252 - "Freeze"
+0253 - "Freeze"
+0254 - "Freeze"
+0255 - "Freeze"
+0256 - "Freeze"
+0257 - "Freeze"
+0258 - "Freeze"
+0259 - "Freeze"
+025A - "Freeze"
+025B - "Freeze"
+025C - "Freeze"
+025D - "Freeze"
+025E - "Freeze"
+025F - "Freeze"
+0260 - "Freeze"
+0261 - "Freeze"
+0262 - "Freeze"
+0263 - "Freeze"
+0264 - "Freeze"
+0265 - "Freeze"
+0266 - "Freeze"
+0267 - "Freeze"
+0268 - "Freeze"
+0269 - "Freeze"
+026A - "Freeze"
+026B - "Freeze"
+026C - "Freeze"
+026D - "Freeze"
+026E - "Freeze"
+026F - "Freeze"
+0270 - "Freeze"
+0271 - "Freeze"
+0272 - "Freeze"
+0273 - "Freeze"
+0274 - "Freeze"
+0275 - "Freeze"
+0276 - "Freeze"
+0277 - "Freeze"
+0278 - "Freeze"
+0279 - "Holz-Ding" / "Wooden Thing" (Objekt / Object) 
+027A - "Puppe" / Doll" (Objekt / Object) 
+027B - "Papiere" / "Papers" (Objekt / Object) 
+027C - "Schriftrolle" / "Scroll" (Objekt / Object) 
+027D - "Hundeleine?" / "Dog Chain?" (Objekt / Object) 
+027E - "Teddyb舐" / "Teddy Bear" (Objekt / Object)
+027F - "Schiff" / "Ship" (Objekt / Object)
+0280 - "Geschenk" / "Present" (Objekt / Object)
+0281 - "Geschenk v2" / "Present v2" (Objekt / Object)
+0282 - "Geschenk v3" / "Present v3" (Objekt / Object)
+0283 - "Stachelwand?" / "Spiky Wall?" (Objekt / Object)
+0284 - "Kettenbalg Kronleuchter" / "Shadow Stalker Chandelier" (Objekt / Object) (Boss!)
+0285 - "Kettenbalg S舫len" / "Shadow Stalker Pillars" (Objekt / Object) (Boss!)
+0286 - "Nichts" / "Nothing"
+0287 - Winnie Puuh / Winnie the Pooh (T-Pose / T-Stance) (Dummy)
+0288 - "Freeze"
+0289 - "Freeze"
+028A - Sora (Len-Form / Lion-Form)
+028B - "Boot aus der Unterwelt" / "Boat from the Underworld" (Objekt / Object) (Dummy)
+028C - "Freeze"
+028D - "Sallys Kleid?" / "Sally's Dress?" (Objekt / Object) (Dummy)
+028E - Malefiz / Maleficent (T-Pose / T-Stance) (Dummy)
+028F - Olette (T-Pose / T-Stance) (Dummy)
+0290 - Malefiz / Maleficent (T-Pose / T-Stance) (Dummy)
+0291 - "Freeze"
+0292 - "Freeze"
+0293 - "Freeze"
+0294 - "Freeze"
+0295 - Simba (Dummy)
+0296 - "Hy舅e" / "Hyena"  (Dummy)
+0297 - "Gnu" (Dummy)
+0298 - "Baby Le" / "Baby Lion" (Dummy)
+0299 - Shenzi (Boss!)
+029A - Banzai (Boss!)
+029B - Ed (Boss!)
+029C - Scar (Boss!)
+029E - Donald (Halloween Town) (Glitchy)
+029D - Goofy (Halloween Town) (Glitchy)
+029F - "Freeze"
+02A0 - "Freeze"
+02A1 - "Freeze"
+02A2 - "Arena Tor" / "Arena Gate" (Objekt / Object) (Dummy)
+02A3 - "Freeze"
+02A4 - "Eine Lampe (?) umh・lt von Dunkelheit" / "A Lamp (?) shrouded in darkness"
+02A5 - "Freeze"
+02A6 - "Freeze"
+02A7 - "Freeze"
+02A8 - Arielle (Menschm, weiﾟes Kleid) / Ariel (Human, white Dress) (T-Pose / T-Stance) (Dummy)
+02A9 - Arielle (Mensch, Hochzeitskleid) / Ariel (Human, Wedding Dress) (T-Pose / T-Stance) (Dummy)
+02AA - Erik / Eric (T-Pose / T-Stance) (Dummy)
+02AB - Erik (Prinz) / Eric (Prince) (T-Pose / T-Stance) (Dummy)
+02AC - "Fisch" / "Fish" (Dummy)
+02AD - "Fisch v2" / "Fish v2" (Dummy)
+02AE - "Delphin" / "Dolphin" (Dummy)
+02AF - Arielle (Mensch, blaues Kleid) / Ariel (Human, blue Dress) (T-Pose / T-Stance) (Dummy)
+02B0 - Abschaum / Jetsam (Dummy)
+02B1 - Meerschaum / Abschaum (Dummy)
+02B2 - "zusammengefaltetes Kleid" / "pleated Dress"
+02B3 - "Tor vom Kaiserpalast" / "Gate from Emperor's Palace" (Objekt / Object) (Dummy)
+02B4 - "Jacks Rentier-Schlitten" / "Jack's Sleigh" (Objekt / Object) (Dummy)
+02B5 - Sora (Halloween Town) (Glitchy)
+02B6 - "Freeze"
+02B7 - "Kurbel" / "Crank" (Objekt / Object) (Dummy)
+02B8 - "Kaputte Mauer" / "Damaged Wall"
+02B9 - "Freeze"
+02BA - Namin・(T-Pose / T-Stance) (Dummy)
+02BB - "T・ fnen" / "Open the Door" (Reaktionskommando / Reaction Command)
+02BC - "T・ fnen" / "Open the Door" (Reaktionskommando / Reaction Command)
+02BD - "T・ fnen" / "Open the Door" (Reaktionskommando / Reaction Command)
+02BE - "T・ fnen" / "Open the Door" (Reaktionskommando / Reaction Command)
+02BF - "T・ fnen" / "Open the Door" (Reaktionskommando / Reaction Command)
+02C0 - Schlachtengef臧rte / Battle Companion (Aurons Waffe / Auron's Weapon) (Dummy)
+02C1 - Selphi (Schuluniform) / Selphi (School Uniform) (T-Pose / T-Stance) (Dummy)
+02C2 - "Tasche" / "Bag" (Objekt / Object) (Dummy)
+02C3 - Roxas (T-Pose / T-Stance) (Dummy)
+02C4 - "Freeze"
+02C5 - "Freeze"
+02C6 - "Freeze"
+02C7 - Kairi (Schuluniform) / Kairi (School Uniform) (T-Pose / T-Stance) (Dummy)
+02C8 - Oogie Boogie (T-Pose / T-Stance) (Dummy)
+02C9 - "Nichts" / "Nothing"
+02CA - Liliput Stadt Part 1 / Liliput Town Part 1 (Dummy)
+02CB - Liliput Stadt Part 2 / Liliput Town Part 2 (Dummy)
+02CC - Liliput Stadt Part 3 / Liliput Town Part 3 (Dummy)
+02CD - Liliput Stadt Part 4 / Liliput Town Part 4 (Dummy)
+02CE - Das Biest / The Beast (Boss!)
+02CF - Hayner (T-Pose / T-Stance) (Dummy)
+02D0 - Pence (T-Pose / T-Stance) (Dummy)
+02D1 - "Nichts" / "Nothing"
+02D2 - "Stuhl" / "Chair" (Objekt / Object) (Dummy)
+02D3 - "Kerzenzirkel" / "Circle of Candels" (Objekt / Object) (Dummy)
+02D4 - Tron
+02D5 - "Freeze"
+02D6 - "zerstbare Kiste" / "destructable Box" (Objekt / Object)
+02D7 - Karlos Dampfboot (mit Eckstein) / Pete's Steamboat (with Cornerstone) (Objekt / Object)
+02D8 - "Freeze"
+02D9 - "Karton" / "Cardbox" (Objekt / Object)
+02DA - "Fass?" / "Barrel" (Objekt / Object)
+02DB - "Sch・sel" / "Dish" (Objekt / Object)
+02DC - "Freeze"
+02DD - "Nichts" / "Nothing"
+02DE - "dehende Spielzeugbox" / "spinning Toys Box" (Objekt / Object)
+02DF - "dehende Spielzeugbox v2" / "spinning Toys Box v2 " (Objekt / Object)
+02E0 - "Couch" (Objekt / Object)
+02E1 - "Hocker" / "Stool" (Objekt / Object) 
+02E2 - "Stuhl" / "Chair" (Objekt / Object) 
+02E3 - "Kamin" / "Flue" (Objekt / Object)
+02E4 - "Regal" / "Shelf" (Objekt / Object) 
+02E5 - "Regal" / "Shelf" (Objekt / Object) 
+02E6 - "Regal" / "Shelf" (Objekt / Object) 
+02E7 - "Kronleuchter" / "Chandelier" (Objekt / Object)
+02E8 - "Nichts" / "Nothing"
+02E9 - "Nichts" / "Nothing"
+02EA - "Zug (Spielzeug)" / "Train (Toy)" (Objekt / Object)
+02EB - "Hocker" / "Stool" (Objekt / Object) 
+02EC - "Nichts" / "Nothing"
+02ED - "Nichts" / "Nothing"
+02EE - "Nichts" / "Nothing"
+02EF - "Nichts" / "Nothing"
+02F0 - "Nichts" / "Nothing"
+02F1 - "Nichts" / "Nothing"
+02F2 - "Nichts" / "Nothing"
+02F3 - "Nichts" / "Nothing"
+02F4 - "Nichts" / "Nothing"
+02F5 - "Nichts" / "Nothing"
+02F6 - "Schwarzes Loch" / "Black Hole" (Gegner? / Enemy?) 
+02F7 - "Plattform" / "Platform" (Objekt / Object)
+02F8 - "Freeze"
+02F9 - "Nichts" / "Nothing"
+02FA - "Datenfragment" / "Data Fragment" (Objekt / Object)
+02FB - "Datenwand" / "Data Wall" (Objekt / Object)
+02FC - "Ball" (aus dem Twilight Town Minispiel / from Twilight Town Mini Game) (Objekt / Object)
+02FD - "Wagen" / "Wagon" (aus dem Twilight Town Minispiel / from Twilight Town Mini Game) (Objekt / Object)
+02FE - "Schrott" / "Junk" (aus dem Twilight Town Minispiel / from Twilight Town Mini Game) (Objekt / Object)
+02FF - "Freeze"
+0300 - "Warp Plattform" / "Warp Plattform" (Reaktionskommando / Reaction Command) (Objekt / Object)
+0301 - "Buch verlassen" / "Leave Book" (Reaktionskommando / Reaction Command)
+0302 - "T・ fnen" / "open the door" (Reaktionskommando / Reaction Command)
+0303 - "Aufbrechen" (Reaktionskommando / Reaction Command)
+0304 - "Buch betreten" / "Enter Book" (Reaktionskommando / Reaction Command)
+0305 - "Freeze"
+0306 - "Freeze"
+0307 - "Freeze"
+0308 - "Freeze"
+0309 - Das Biest / The Beast (deprimiert / depressed) (NPC) 
+030A - Stitch (Beschwung / Summon)
+030B - "Freeze"
+030C - "Freeze"
+030D - "Braunes Tor" / "Brown Gate" (Objekt / Object) (Dummy)
+030E - "Kitchen" (Objekt / Object) (Dummy)
+030F - Tron (NPC)
+0310 - "Freeze"
+0311 - "Freeze"
+0312 - "Freeze"
+0313 - "Freeze"
+0314 - "Nichts" / "Nothing"
+0315 - Energiediskus / Energy Disk (Objekt / Object) (Dummy)
+0316 - "Nichts" / "Nothing"
+0317 - Weg der D舂merung / Way to Dawn (Objekt / Object) (Dummy)
+0318 - Micky / Mickey (ohne Kutte / without Coat)
+0319 - Donald (T- Pose / T-Stance) (Dummy) (Freeze)
+031A - Goofy (T- Pose / T-Stance) (Dummy) (Freeze)
+031B - Demyx (Arena des Olymps / Olympus Coliseum, 1. Battle) (Boss!)
+031C - Das Beast / The Beast (Prinz Outfit / Prince Outfit) (Dummy)
+031D - Belle (Ballkleid / Ball Dress) (Dummy)
+031E - Simba (Dummy)
+031F - "Nichts" / "Nothing"
+0320 - "kleiner Krug" / tiny Pot" (aus Phils Minispiel / from Phil's Mini Game) (Objekt / Object) 
+0321 - "groﾟer Krug" / "large Pot" (aus Phils Minispiel / from Phil's Mini Game) (Objekt / Object) 
+0322 - "Freeze"
+0323 - Roxas (Helden-Form / Valor-Form) (aka. DW Roxas)
+0324 - Nala (Dummy)
+0325 - "Wasserspeier" / "Gargoyle" (Objekt / Object)
+0326 - "Guillotine" (Objekt / Object)
+0327 - "Explosion aus dem Boden" / "Explosion from the ground" (Objekt / Object)
+0328 - "Gruselige T・" / "Spooky Door" (Objekt / Object)
+0329 - "Rollerskates?" (Objekt / Object) (Dummy)
+032A - "Weinachtst・?" / "Christmas Door" (Objekt / Object)
+032B - "Geschenk" / "Present" (Objekt / Object) (Dummy)
+032C - "lange Plattform?" / "long Platform?" (Objekt / Object) (Dummy)
+032D - "Seil" / "Rope" (Objekt / Object) (Dummy)
+032E - "Sallys Bein?" / "Sallys Leg" (Objekt / Object) (Dummy)
+032F - "Freeze"
+0330 - "Freeze"
+0331 - Belle (NPC) (Dummy)
+0332 - "kleine Schatzkiste" / "little treasure chest" (Agrabah)
+0333 - "kleine Schatzkiste" / "little treasure chest" (Port Royal)
+0334 - "kleine Schatzkiste" / "little treasure chest" (Halloween Town)
+0335 - "kleine Schatzkiste" / "little treasure chest" (Das Land der Drachen / Land of Dragons)
+0336 - "kleine Schatzkiste" / "little treasure chest" (Hundertmorgenwald / 100 Acre Wood)
+0337 - "kleine Schatzkiste" / "little treasure chest" (Schloss Disney / Disney Castle)
+0338 - "kleine Schatzkiste" / "little treasure chest" (Fluss der Nostalgie / Timeless River)
+0339 - "kleine Schatzkiste" / "little treasure chest" (Die Welt die niemals war / The World that never was)
+033A - "groﾟe Schatzkiste" / "large treasure chest" (Das Schloss des Bieste / Beasts Castle)
+033B - "groﾟe Schatzkiste" / "large treasure chest" (Arena des Olymps / Olympus Coliseum)
+033C - "groﾟe Schatzkiste" / "large treasure chest" (Agrabah)
+033D - "groﾟe Schatzkiste" / "large treasure chest" (Port Royal)
+033E - "groﾟe Schatzkiste" / "large treasure chest" (Halloween Town)
+033F - "groﾟe Schatzkiste" / "large treasure chest" (Das Land der Drachen / Land of Dragons)
+0340 - "groﾟe Schatzkiste" / "large treasure chest" (Hundertmorgenwald / 100 Acre Woods)
+0341 - "groﾟe Schatzkiste" / "large treasure chest" (Schloss Disney / Disney Castle)
+0342 - "groﾟe Schatzkiste" / "large treasure chest" (Fluss der Nostalgie / Timeless River)
+0343 - "groﾟe Schatzkiste" / "large treasure chest" (Die Welt die niemals war / The World that never was)
+0344 - Demyx (T- Pose / T-Stance) (Dummy)
+0345 - "Ente" (Spielzeug) / "Duck" (Toy) (Objekt / Object) (Dummy)
+0346 - "K・bisbox" / "Pumpkin Box" (Objekt / Object) (Dummy)
+0347 - "halbe T・" / "part Door" (Objekt / Object) (Dummy)
+0348 - "Freeze"
+0349 - "Freeze"
+034A - "Freeze"
+034B - "Freeze"
+034C - "Freeze"
+034D - "Freeze"
+034E - "Freeze"
+034F - "Freeze"
+0350 - "Freeze"
+0351 - "Nichts" / "Nothing"
+0352 - "Freeze"
+0353 - "Brennendes Haus" / "Burning House" (Objekt / Object)
+0354 - "Freeze"
+0355 - "Freeze"
+0356 - "Freeze"
+0357 - Tron (T- Pose / T-Stance) (Dummy)
+0358 - "Ein Brett?" / "A Board?" (Objekt / Object) (Dummy)
+0359 - "Freeze"
+035A - "Freeze"
+035B - "Freeze"
+035C - "Freeze"
+035D - "Freeze"
+035E - Sark (Boss!)
+035F - "W舅de vom MPC" / "MPC Walls" (Objekt / Object)
+0360 - "Wand mit Reaktionskommando" / "Wall with Reaction Command" (Objekt / Object)
+0361 - "graues Dreieck" / "grey Triangle" (Objekt / Object) (Dummy)
+0362 - Elizabeth Swann (T- Pose / T-Stance) (Dummy)
+0363 - "Freeze"
+0364 - "Freeze"
+0365 - "Freeze"
+0366 - "Freeze"
+0367 - "Freeze"
+0368 - "Freeze"
+0369 - "Freeze"
+036A - "Freeze"
+036B - "Freeze"
+036C - "Freeze"
+036D - "Freeze"
+036E - "Freeze"
+036F - "Freeze"
+0370 - "Freeze"
+0371 - "Freeze"
+0372 - "Freeze"
+0373 - "Freeze"
+0374 - "Freeze"
+0375 - "Freeze"
+0376 - "Freeze"
+0377 - "Freeze"
+0378 - "Freeze"
+0379 - "Freeze"
+037A - "Freeze"
+037B - "Freeze"
+037C - "Freeze"
+037D - "Freeze"
+037E - "Freeze"
+037F - "Freeze"
+0380 - "Freeze"
+0381 - "Freeze"
+0382 - "Freeze"
+0383 - "Freeze"
+0384 - "Nichts" / "Nothing"
+0385 - Sark (T- Pose / T-Stance) (Dummy)
+0386 - "Freeze"
+0387 - Ursula (groﾟ / large) (T- Pose / T-Stance) (Dummy)
+0388 - "Datenfragment im Boden" / "Data Fragment in the ground" (Objekt / Object) (Dummy)
+0389 - Donald (Atlantica-Form) (Dummy)
+038A - Ursula (T- Pose / T-Stance) (Dummy)
+038B - "Freeze"
+038C - Ursula (T- Pose / T-Stance) (Dummy)
+038D - "Freeze"
+038E - "Freeze"
+038F - "Holzboot" / "wooden Boat" (Objekt / Object) (Dummy)
+0390 - "Kiste, Fass und Bretter im Boden" / "Box, Barrel and Boards in the ground" (Objekt / Object) (Dummy)
+0391 - "Brett" / "Board" (Objekt / Object) (Dummy)
+0392 - "Freeze"
+0393 - "Freeze"
+0394 - Jack Sparrow (untot / undead) (T- Pose / T-Stance) (angreiffbar / attackable) (Dummy)
+0395 - Merlin (Dummy)
+0396 - Donald (Atlantica) (Knte wo anders abst・zen / May crash elsewhere)
+0397 - Goofy (Atlantica) (Knte wo anders abst・zen / May crash elsewhere)
+0398 - "Freeze"
+0399 - "Freeze"
+039A - Hydras Kopf / Hydra's Head (Boss!)
+039B - "Freeze"
+039C - "Datenaufzug" / "Data Lift" (Objekt / Object) (Dummy)
+039D - "Daten Ding" / "Data Thing" (Objekt / Object) (Dummy)
+039E - "Solarsegler" / "Solar Sailer" (Objekt / Object) (Dummy)
+039F - Tron (T- Pose / T-Stance) (Dummy)
+03A0 - "Nichts" / "Nothing"
+03A1 - "Freeze"
+03A2 - "Freeze"
+03A3 - "Freeze"
+03A4 - "Freeze"
+03A5 - "Freeze"
+03A6 - "Freeze"
+03A7 - "Freeze"
+03A8 - "Freeze"
+03A9 - "Freeze"
+03AA - "Freeze"
+03AB - "Freeze"
+03AC - "Freeze"
+03AD - "Freeze"
+03AE - "Nichts" / "Nothing"
+03AF - "Freeze"
+03B0 - "Freeze"
+03B1 - "Freeze"
+03B2 - "Freeze"
+03B3 - "Freeze"
+03B4 - "Freeze"
+03B5 - "Freeze"
+03B6 - "Mickys Thron" / "Mickey's Throne" (Objekt / Object) (Dummy)
+03B7 - "Freeze"
+03B8 - "Freeze"
+03B9 - "Freeze"
+03BA - "Freeze"
+03BB - "Freeze"
+03BC - "W・fel..." / "Cube..." (Objekt / Object) (Dummy)
+03BD - "Wundert・e" / "Lucky Bag" (beinhaltet Gegner / contains Enemy) (Objekt / Object)
+03BE - Sora (Atlantica) (Knte wo anders abst・zen / May crash elsewhere)
+03BF - "Freeze"
+03C0 - "Freeze"
+03C1 - "Freeze"
+03C2 - "Freeze"
+03C3 - "Freeze"
+03C4 - Sark (Groﾟ / Large) (Boss!)
+03C5 - "Freeze"
+03C6 - "Stachelwand" / "Spiky Wall" (Objekt / Object)
+03C7 - "Geschenke Generator" / "Present Generator" (Objekt / Object)
+03C8 - "Geschenke Kanone" / "Present Gun" (Objekt / Object)
+03C9 - "Nichts" / "Nothing"
+03CA - "Freeze"
+03CB - "Freeze"
+03CC - "Freeze"
+03CD - "Freeze"
+03CE - "Freeze"
+03CF - "Freeze"
+03D0 - "Freeze"
+03D1 - "Freeze"
+03D2 - "Freeze"
+03D3 - "Freeze"
+03D4 - "Freeze"
+03D5 - "Freeze"
+03D6 - "Freeze"
+03D7 - "Freeze"
+03D8 - "Freeze"
+03D9 - "Freeze"
+03DA - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+03DB - Karlo / Pete (Fluss der Nostalgie / Timeless River) (Boss?)
+03DC - Auron (klein / tiny) (Dummy)
+03DD - "Freeze"
+03DE - "Kr臧e" / "Crow" (T- Pose / T-Stance) (Dummy)
+03DF - "Freeze"
+03E0 - "Freeze"
+03E1 - "Freeze"
+03E2 - "Freeze"
+03E3 - Shan-Yu (T- Pose / T-Stance) (Dummy)
+03E4 - "Freeze"
+03E5 - Xaldin (Boss!)
+03E6 - Sora (Helden-Form / Valor-Form) (Halloween Town) (Glitchy)
+03E7 - Sora (Weisen-Form / Wisdom Form) (Halloween Town) (Glitchy)
+03E8 - Sora (Meister-Form / Master-Form) (Halloween Town) (Glitchy)
+03E9 - Sora (ﾜber-Form / Final-Form) (Halloween Town) (Halloween Town) (Glitchy)
+03EA - Sora (Anti-Form) (Halloween Town) (Glitchy)
+03EB - "Terminal?" (Objekt / Object) (Dummy)
+03EC - "T・ zum Fluss der Nostalgie" / "Door to Timeless River" (Objekt / Object) (Dummy)
+03ED - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+03EE - "Freeze"
+03EF - "Teil einer T・" / "Part of a Door" (Objekt / Object) (Dummy)
+03F0 - Jack Skellington (T- Pose / T-Stance) (Dummy)
+03F1 - Xaldin (mit Speeren / with Spears) (T- Pose / T-Stance) (Dummy)
+03F2 - "Freeze"
+03F3 - "Mauer" / "Wall" (Objekt / Object) (Dummy)
+03F4 - Barbossa (angreiffbar, attackable) (T- Pose / T-Stance) (Dummy)
+03F5 - Barbossa (untot / undead) (angreiffbar, attackable) (T- Pose / T-Stance) (Dummy)
+03F6 - "Freeze"
+03F7 - Barbossa (Boss!)
+03F8 - "Nichts" / "Nothing"
+03F9 - "Nichts" / "Nothing"
+03FA - "Nichts" / "Nothing"
+03FB - "Daten Ding..." / "Data Thing" (Objekt / Object) (Dummy)
+03FC - "Daten Ding..." / "Data Thing" (Objekt / Object) (Dummy)
+03FD - "Daten Ding..." / "Data Thing" (Objekt / Object) (Dummy)
+03FE - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+03FF - Das Biest / The Beast (Prinz Outfit / Prince Outfit) (NPC) (Dummy)
+0400 - Tassilo / Chip (NPC) (Dummy)
+0401 - Unruh / Cogsworth (NPC) (Dummy)
+0402 - Mdm. Pottine / Mrs. Potts (NPC) (Dummy)
+0403 - Mdm. Kommode / Wardrobe (NPC) (Dummy)
+0404 - Belle (Ballkleid / Ball Dress) (Dummy)
+0405 - Das Biest / The Beast (NPC) (Dummy)
+0406 - "Nichts" / "Nothing"
+0407 - "Freeze"
+0408 - "Freeze"
+0409 - "Kran aus Port Royal" / "Crane from Port Royal" (Objekt / Object) 
+040A - "Kran aus Port Royal" / "Crane from Port Royal" (Objekt / Object) 
+040B - Vulkanlord / Volcano Lord (Boss!)
+040C - Blizzardlord / Blizzard Lord  (Boss!)
+040D - Jack Sparrow (NPC) (Dummy)
+040E - Elizabeth Swann (NPC) (Dummy)
+040F - Will Turner (NPC) (Dummy)
+0410 - "Freeze"
+0411 - "Felsst・k" / "Rock" (Objekt / Object) (Dummy)
+0412 - "Agrabah Zelt" / "Agrabah Tent" (Objekt / Object) (Dummy)
+0413 - Jack Sparrow (untot / undead) (T- Pose / T-Stance) (Dummy)
+0414 -  "Freeze"
+0415 - Micky / Mickey (NPC) (Fluss der Nostalgie / Timeless River) (T- Pose / T-Stance) (Dummy)
+0416 - "Freeze"
+0417 - "Freeze"
+0418 - Triton (Algen-Form / Algae-Form) (Dummy)
+0419 - "Freeze"
+041A - "Freeze"
+041B - "Freeze"
+041C - "Freeze"
+041D - "Freeze"
+041E - "Freeze"
+041F - "Freeze"
+0420 - "Freeze"
+0421 - "Freeze"
+0422 - Jago / Iago (NPC) (Dummy)
+0423 - "Geschenke Box vom F.A.S.-Kampf" / "Present Box from L.S.B.-Battle" (Objekt / Object)
+0424 - "Geschenke Box vom Minispiel" / "Present Box from Mini Game" (Objekt / Object)
+0425 - "Geschenke Box vom Minispiel" / "Present Box from Mini Game" (Objekt / Object)
+0426 - "Geschenke Box vom Minispiel" / "Present Box from Mini Game" (Objekt / Object)
+0427 - "Geschenke Box vom Minispiel" / "Present Box from Mini Game" (Objekt / Object)
+0428 - Winnie Puuh / Winnie the Pooh (NPC) (Dummy)
+0429 - Tigger (NPC) (Dummy)
+042A - Ferkel / Piglet (NPC) (Dummy)
+042B - Rabbit (NPC) (Dummy)
+042C - Eule / Owl (NPC) (Dummy)
+042D - Kanga (NPC) (Dummy)
+042E - "schwarzer Ast" / "black Branch" (Objekt / Object) (Dummy)
+042F - Barbossa (T- Pose / T-Stance) (Dummy)
+0430 - "TT-Zug (Violet)" / "TT-Train (Violet)" (Objekt / Object) (Dummy)
+0431 - "TT-Zug (Violet) T・" / "TT-Train (Violet) Door" (Objekt / Object) (Dummy)
+0432 - "Tor 0" / "Gate 0" (Objekt / Object) (Dummy)
+0433 - Donald (NPC) (Dummy)
+0434 - Goofy (NPC) (Dummy)
+0435 - Ariel (NPC) (Dummy)
+0436 - Sebastian (NPC) (Dummy)
+0437 - Flounder (NPC) (Dummy)
+0438 - "Freeze"
+0439 - "Freeze"
+043A - "Freeze"
+043B - "Freeze"
+043C - "Freeze"
+043D - "Freeze"
+043E - Will Turner (T- Pose / T-Stance) (Dummy)
+043F - Li Shang (NPC) (Dummy)
+0440 - Yao (NPC) (Dummy)
+0441 - Chien-Po (NPC) (Dummy)
+0442 - Ling (NPC) (Dummy)
+0443 - Der Kaiser von China / Emperor of China (sitzend / sitting) (NPC) (Dummy)
+0444 - Chinesischer Soldat / Chinese Soldier 1 (NPC) (Dummy)
+0445 - Chinesischer Soldat / Chinese Soldier 2 (NPC) (Dummy)
+0446 - Hercules (NPC) (Dummy)
+0447 - "Freeze"
+0448 - "Freeze"
+0449 - "Freeze"
+044A - "Freeze"
+044B - "Freeze"
+044C - "Freeze"
+044D - Philoctetes (NPC) (Dummy)
+044E - Megara (NPC) (Dummy)
+044F - Pegasus (NPC) (Dummy)
+0450 - Pech / Pain (NPC) (Dummy)
+0451 - Schwefel / Panic (NPC) (Dummy)
+0452 - Hades (NPC) (Dummy)
+0453 - Untoter Pirat A / Undead Pirate A (Gegner! / Enemy!)
+0454 - Untoter Pirat B / Undead Pirate B (Gegner! / Enemy!)
+0455 - Untoter Pirat C / Undead Pirate C (Gegner! / Enemy!)
+0456 - "Freeze"
+0457 - "Windritt" (Reaktionskommando / Reaction Command)
+0458 - "Freeze"
+0459 - Bodenbeben / Groundshaker (Boss!)
+045A - Telebot / Strafer (Gegner! / Enemy!)
+045B - Peter Pan (Beschwung / Summon)
+045C - "Freeze"
+045D - "Freeze"
+045E - "Freeze"
+045F - "Freeze"
+0460 - "Freeze"
+0461 - "Freeze"
+0462 - "Freeze"
+0463 - "Freeze"
+0464 - "Freeze"
+0465 - "Freeze"
+0466 - "Freeze"
+0467 - "Freeze"
+0468 - "Freeze"
+0469 - "Freeze"
+046A - "Freeze"
+046B - "Freeze"
+046C - "Freeze"
+046D - "Freeze"
+046E - "Freeze"
+046F - "Freeze"
+0470 - "Freeze"
+0471 - "verfluchtes Medallion" / "cursed Medallion" (Objekt / Object) (Dummy)
+0472 - "verfluchtes Medallion" (blutig) / "cursed Medallion" (bloody) (Objekt / Object) (Dummy)
+0473 - "gefnetes Geschenk" / "opened Present" (Objekt / Object) (Dummy)
+0474 - "Freeze"
+0475 - "Freeze"
+0476 - "Freeze"
+0477 - "Freeze"
+0478 - "Freeze"
+0479 - "Freeze"
+047A - "Freeze"
+047B - "Freeze"
+047C - "Freeze"
+047D - "Freeze"
+047E - "Freeze"
+047F - "Freeze"
+0180 - "Freeze"
+0481 - "Freeze"
+0482 - "Freeze"
+0483 - "Freeze"
+0484 - "Freeze"
+0485 - "Freeze"
+0486 - "Freeze"
+0487 - Mogry / Moogle (NPC) (Dummy)
+0488 - H舅dler / Peddler (NPC) (Dummy)
+0489 - "Freeze"
+048A - Karlo / Pete (Fluss der Nostalgie / Timeless River) (NPC) (Dummy)
+048B - Karlo / Pete (NPC) (Dummy) (Dummy)
+048C - Rudi Ross / Horace Horsecollar (NPC) (Dummy)
+048D - Klarabella Kuh / Clarabelle Cow (NPC) (Dummy)
+048E - Henriette Huhn / Clara Cluck (NPC) (Dummy)
+048F - Minnie (NPC) (Dummy)
+0490 - Daisy (NPC) (Dummy)
+0491 - Chip (NPC) (Dummy)
+0492 - Chap / Dale (NPC) (Dummy)
+0493 - Besen / Broomstick (NPC) (Dummy)
+0494 - Merlin (NPC) (Dummy)
+0495 - "Freeze"
+0496 - Sally (NPC) (Dummy)
+0497 - Dr. Finkelstein / Dr. Finklestein (NPC) (Dummy)
+0498 - B・germeister / Mayor (NPC) (Dummy)
+0499 - Furcht / Lock (NPC) (Dummy)
+049A - Angst / Shock (NPC) (Dummy)
+049B - Schrecken / Barrel (NPC) (Dummy)
+049C - Nikolaus / Santa Claus (NPC) (Dummy)
+049D - Gr・e Elfe / Green Elf (NPC) (Dummy)
+049E - Rote Elfe / Red Elf (NPC) (Dummy)
+049F - Kig Triton / King Triton (T- Pose / T-Stance) (Dummy)
+04A0 - Demyx Wasserklon / Demyx's Water Clone (Boss!)
+04A1 - Mogry Shop / Moogle Shop (Dummy)
+04A2 - Aladdin (NPC) (Dummy)
+04A3 - Abu (NPC) (Dummy)
+04A4 - Jasmin / Jasmine (NPC) (Dummy)
+04A5 - "Freeze"
+04A6 - "Freeze"
+04A7 - "Barbossas Schwert" / "Barbossa's Sword" (Objekt / Object) (Dummy)
+04A8 - "verfluchtes Medallion" / "cursed Medallion" (Objekt / Object) (Dummy)
+04A9 - "verfluchtes Medallion" (blutig) / "cursed Medallion" (bloody) (Objekt / Object) (Dummy)
+04AA - "Freeze"
+04AB - Timon (NPC) (Dummy)
+04AC - Pumbaa (NPC) (Dummy)
+04AD - Nala (NPC) (Dummy)
+04AE - Lin / Lioness (NPC) (Dummy)
+04AF - Rafiki (NPC) (Dummy)
+04B0 - Simba (NPC) (Dummy)
+04B1 - "Freeze"
+04B2 - "Freeze"
+04B3 - Ping (NPC) (Dummy)
+04B4 - "Freeze"
+04B5 - Auron (NPC) (Dummy)
+04B6 - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+04B7 - "Freeze"
+04B8 - Das aggressive Programm /  The aggressive Program (Boss!)
+04B9 - Atlantica necklace
+04BA - Erik / Eric (T- Pose / T-Stance) (Dummy)
+04BB - Minnie (Partner!)
+04BC - I-Ah / Eeyore (NPC)
+04BD - Ruuh / Roo (NPC)
+04BE - Gopher (NPC)
+04BF - Kanga & Ruuh / Kanga & Roo (NPC)
+04C0 - "Freeze"
+04C1 - "Freeze"
+04C2 - Arielle / Ariel (T- Pose / T-Stance) (Dummy)
+04C3 - Arielle / Ariel (zerfetztes Kleid / rag clothes) (T- Pose / T-Stance) (Dummy)
+04C4 - Schattenlurch / Shadow (Halloween Town) (Gegner! / Enemy!)
+04C5 -  "Nichts" / "Nothing"
+04C6 - "Explodierendes Fass" / "Exploding Barrel" (Reaktionskommando / Reaction Command) (Objekt / Object)
+04C7 - "Freeze"
+04C8 - "Freeze"
+04C9 - "Freeze"
+04CA - "Freeze"
+04CB - Donald (Altantica) (NPC) (Dummy)
+04CC - Goofy (Atlantica) (NPC) (Dummy)
+04CD - Kig / King Triton (NPC) (Dummy)
+04CE - Roxas (Org. Outfit) (T-Pose / T-Stance) (Dummy)
+04CF - "Freeze"
+04D0 - Jack Sparrow (Freeze!)
+04D1 - Interceptor (Objekt / Object) (Dummy)
+04D2 - Black Pearl (Objekt / Object) (Dummy)
+04D3 - Black Pearl (verwaschen / blurry) (Objekt / Object) (Dummy)
+04D4 - Black Pearl (Objekt / Object) (Dummy)
+04D5 - "T・ aus Grass" / "Grass Door" (Objekt / Object) (Dummy)
+04D6 - "Fenster zu Mickys Haus" / "Window to Mickeys House" (Objekt / Object) (Dummy)
+04D7 - Hayner (Boss!)
+04D8 - "Karlos T・ zum Fluss der Nostalgie" / "Pete's Door to Timeless River" (Objekt / Object) (Dummy)
+04D9 - "T・ zum Fluss der Nostalgie" / "Door to Timeless River" (Objekt / Object) (Dummy)
+04DA - "Schwert" / "Sword" (Objekt / Object) (Dummy)
+04DB - "Note" (Objekt / Object) (Dummy)
+04DC - Axel (Partner!)
+04DD - "Tritons Dreizack" / "Triton's Trident" (Objekt / Object) (Dummy)
+04DE - "Harpune" / "Harpoon" (Objekt / Object) (Dummy)
+04DF - "Nichts" / "Nothing"
+04E0 - Pirat A / Pirate A (angreiffbar / attackable) (T- Pose / T-Stance) (Dummy)
+04E1 - "Freeze"
+04E2 - "Freeze"
+04E3 - "Freeze"
+04E4 - "Freeze"
+04E5 - "Freeze"
+04E6 - Pirat A / Pirate A (untot / undead) (angreiffbar / attackable) (T- Pose / T-Stance) (Dummy)
+04E7 - Pirat B / Pirate B (angreiffbar / attackable) (T- Pose / T-Stance) (Dummy)
+04E8 - Pirat B / Pirate B (untot / undead) (angreiffbar / attackable) (T- Pose / T-Stance) (Dummy)
+04E9 - Pirat C / Pirate C (angreiffbar / attackable) (T- Pose / T-Stance) (Dummy)
+04EA - Pirat C / Pirate C (untot / undead) (angreiffbar / attackable) (T- Pose / T-Stance) (Dummy)
+04EB - "Schriftrolle" / "Scroll" (Objekt / Object) (T- Pose / T-Stance) (Dummy)
+04EC - "Schriftrolle" (gefnet) / "Scroll" (opened) (Objekt / Object) (Dummy)
+04ED - Tron (NPC) (Dummy)
+04EE - Pluto (Dummy)
+04EF - Jiminy (T- Pose / T-Stance) (Dummy)
+04F0 - Vanessa (Ursulas "Verkleidung" / Ursula's Disguise) (T- Pose / T-Stance) (Dummy)
+04F1 - Tick / Huey (T- Pose / T-Stance) (Dummy)
+04F2 - "T・" / "Door" (Objekt / Object) (Dummy)
+04F3 - "Thank You!" (Tron's Message) 
+04F4 - Tinkerbell (Beschwung / Summon)
+04F5 - Goofy (Fluss der Nostalgie / Timeless River) (Glitchy)
+04F6 - "Freeze"
+04F7 - "Freeze"
+04F8 - "Freeze"
+04F9 - "Freeze"
+04FA - "Freeze"
+04FB - "Kuttenmann" / "Man with Coat" (Dummy)
+04FC - "gelber Gegenstand.." / "yellow Item" (Objekt / Object) (Dummy)
+04FD - "Junger Simba" / "Young Simba" (Dummy)
+04FE - "Muschel" / "Shell" (Objekt / Object) (Dummy)
+04FF - "Freeze"
+0500 - Dagobert / Scrooge (NPC) (Dummy)
+0501 - Tick / Huey (NPC) (Dummy)
+0502 - Trick / Dewey (NPC) (Dummy)
+0503 - Track / Louie (NPC) (Dummy)
+0504 - Squall / Leon (NPC) (Dummy)
+0505 - Cid (NPC) (Dummy)
+0506 - Cloud (NPC) (Dummy)
+0507 - Aerith (NPC) (Dummy)
+0508 - Tifa (NPC) (Dummy)
+0509 - Yuffie (NPC) (Dummy)
+050A - Sephiroth (NPC) (Dummy)
+050B - Yuna (NPC) (Dummy)
+050C - Rikku (NPC) (Dummy)
+050D - Paine (NPC) (Dummy)
+050E - Micky / Mickey (mit Kutte / with Coat) (NPC) (Dummy)
+050F - Mogry / Moogle (NPC) (Dummy)
+0510 - Hollow Bastion Boy A (NPC) (Dummy)
+0511 - "Freeze"
+0512 - Hollow Bastion Lady A (NPC) (Dummy)
+0513 - Hollow Bastion Girl A (NPC) (Dummy)
+0514 - Hollow Bastion Man A (NPC) (Dummy)
+0515 - Hollow Bastion Man B (NPC) (Dummy)
+0516 - Hollow Bastion Item Shop Guy (NPC) (Dummy)
+0517 - Hollow Bastion Woman A (NPC) (Dummy)
+0518 - Hollow Bastion Woman B (NPC) (Dummy)
+0519 - "Freeze"
+051A - Hollow Bastion Weapon Shop Guy (NPC) (Dummy)
+051B - "Freeze"
+051C - "Freeze"
+051D - Hayner (NPC) (Dummy)
+051E - Pence (NPC) (Dummy)
+051F - Olette (NPC) (Dummy)
+0520 - Namin・(NPC) (Dummy)
+0521 - Vivi (NPC) (Dummy)
+0522 - Cifer (NPC) (Dummy)
+0523 - Rajin (NPC) (Dummy)
+0524 - Fujin (NPC) (Dummy)
+0525 - Setzer (NPC) (Dummy)
+0526 - Yen Sid (NPC) (Dummy)
+0527 - Flora (NPC) (Dummy)
+0528 - Fauna (NPC) (Dummy)
+0529 - Sonnenschein / Merryweather (NPC) (Dummy)
+052A - Twilight Town Boy A (NPC) (Dummy)
+052B - Twilight Town Boy B (NPC) (Dummy)
+052C - "Freeze"
+052D - Twilight Town Girl A (NPC) (Dummy)
+052E - Twilight Town Girl B (NPC) (Dummy)
+052F - Twilight Town Man A (NPC) (Dummy)
+0530 - Twilight Town Man B (NPC) (Dummy)
+0531 - Twilight Town Item Shop Guy (NPC) (Dummy)
+0532 - Twilight Town Referee (NPC) (Dummy)
+0533 - Twilight Town Woman A (NPC) (Dummy)
+0534 - Twilight Town Woman B (NPC) (Dummy)
+0535 - "Freeze"
+0536 - "Freeze"
+0537 - "Freeze"
+0538 - "Freeze"
+0539 - Twilight Town Weapon Shop Guy (NPC) (Dummy)
+053A - Twilight Town Lady A (NPC) (Dummy)
+053B - "Freeze"
+053C - "Freeze"
+053D - Twilight Town Old Woman (NPC) (Dummy)
+053E - "Freeze"
+053F - "Freeze"
+0540 - "Freeze"
+0541 - Twilight Town Struggle Tournament Guy (NPC) (Dummy)
+0542 - Hollow Bastion Boy B (NPC) (Dummy)
+0543 - Hollow Bastion Accessory Shop Lady (NPC) (Dummy)
+0544 - Hollow Bastion Old Woman A (NPC) (Dummy)
+0545 - Hollow Bastion Old Man A (NPC) (Dummy)
+0546 - Twilight Town Boy C (NPC) (Dummy)
+0547 - Twilight Town Accessory Shop Lady (NPC) (Dummy)
+0548 - Twilight Town Man with Moustache A (NPC) (Dummy)
+0549 - Twilight Town Man with Moustache B (NPC) (Dummy)
+054A - Twilight Town Man Old Man A (NPC) (Dummy)
+054B - Twilight Town Man Old Woman A (NPC) (Dummy)
+054C - Shan-Yu (angreiffbar / attackable) (T-Pose / T-Stance) (Dummy)
+054D - Shan-Yu (T-Pose / T-Stance) (Dummy)
+054E - Hund / Dog (NPC) (Dummy)
+054F - Katze / Cat (NPC) (Dummy)
+0550 - Me / Gull (NPC) (Dummy)
+0551 - Timon (Partner!)
+0552 - Pumbaa (Partner!)
+0553 - Sora (Atlantica) (T-Pose / T-Stance) (Dummy)
+0554 - Goofy (Space Paranoids) (Glitchy)
+0555 - Schattenlurch / Shadow (Gegner! / Enemy!)
+0556 - Wachroboter / Surveillance Robot (1000 Herzlosen Kampf! / 1000 Heartless Battle!) (Gegner! / Enemy!)
+0557 - Propellerdrohnen in Massen / Crowd of Rapid Thrusters (Gegner! / Enemy!)
+0558 - Propellerdrohne / Rapid Thruster (Gegner! / Enemy!)
+0559 - "Daten Wand" / "Data Wall" (Objekt / Object) (Dummy)
+055A - Donald (Space Paranoids) (Glitchy)
+055B - Goofy (Atlantica) (T-Pose / T-Stance) (Dummy)
+055C - "Nikolaus' Rentierschlitten" / "Santa's Sleigh" (Objekt / Object) (Dummy)
+055D - "Freeze"
+055E - Adaman-Schild / Adamant Shield (Dummy)
+055F - Adaman-Schild / Adamant Shield (Halloween Town) (Dummy)
+0560 - Kettenw臘hter / Chain Gear (Dummy)
+0561 - Kettenw臘hter / Chain Gear (Halloween Town) (Dummy)
+0562 - Ogerschild / Ogre Shield (Dummy)
+0563 - Ogerschild / Ogre Shield (Halloween Town) (Dummy)
+0564 - Sternschnuppe / Falling Star (Dummy)
+0565 - Sternschnuppe / Falling Star (Halloween Town) (Dummy)
+0566 - Kumulus-Kranz / Dreamcloud  (Dummy)
+0567 - Kumulus-Kranz / Dreamcloud (Halloween Town) (Dummy)
+0568 - Ritterwappen / Knight Defender (Dummy)
+0569 - Ritterwappen / Knight Defender (Halloween Town) (Dummy)
+056A - Genji-Schild / Genji Shield (Dummy)
+056B - Genji-Schild / Genji Shield (Halloween Town) (Dummy)
+056C - Akasha-Chronik / Akashic Record (Dummy)
+056D - Akasha-Chronik / Akashic Record (Halloween Town) (Dummy)
+056E - Niemandswache / Nobody Guard (Dummy)
+056F - Niemandswache / Nobody Guard (Halloween Town) (Dummy)
+0570 - "Beta-Schild" / "Beta Shield" (Dummy)
+0571 - "Fels" / "Rock" (Space Paranoids) (Objekt / Object) (Dummy)
+0572 - "Fels" / "Rock" (Space Paranoids) (Objekt / Object) (Dummy)
+0573 - "Freeze"
+0574 - "Freeze"
+0575 - "Freeze"
+0576 - "Freeze"
+0577 - "Freeze"
+0578 - "Freeze"
+0579 - "Freeze"
+057A - "Freeze"
+057B - "Freeze"
+057C - "Freeze"
+057D - "Freeze"
+057E - "Freeze"
+057F - "Freeze"
+0580 - "Freeze"
+0581 - "Freeze"
+0582 - "Freeze"
+0583 - "Freeze"
+0584 - "Freeze"
+0585 - "Freeze"
+0586 - "Freeze"
+0587 - "Freeze"
+0588 - "Freeze"
+0589 - "Freeze"
+058A - "Freeze"
+058B - "Freeze"
+058C - "Freeze"
+058D - "Freeze"
+058E - "Freeze"
+058F - "Freeze"
+0590 - "Freeze"
+0591 - "Freeze"
+0592 - "Freeze"
+0593 - "Freeze"
+0594 - "Freeze"
+0595 - Donald (Space Paranoids) (T-Pose / T-Stance) (Dummy)
+0596 - Hammerrute / Hammer Staff (Dummy)
+0597 - Siegesglocke / Victory Bell (Dummy)
+0598 - Meteo-Stab / Meteor Staff (Dummy)
+0599 - Komet-Stab / Comet Staff (Dummy)
+059A - Besen des Herren / Lord's Broom (Dummy)
+059B - Stab der Weisen / Wisdom Wand (Dummy)
+059C - Steigender Drache / Rising Dragon (Dummy)
+059D - Niemandslanze / Nobody Lance (Dummy)
+059E - Schamanenrelikt / Shaman's Relic (Dummy)
+059F - Hammerrute / Hammer Staff (Halloween Town) (Dummy)
+05A0 - Siegesglocke / Victory Bell (Halloween Town) (Dummy)
+05A1 - Meteo-Stab / Meteor Staff (Halloween Town) (Dummy)
+05A2 - Komet-Stab / Comet Staff (Halloween Town) (Dummy)
+05A3 - Besen des Herren / Lord's Broom (Halloween Town) (Dummy)
+05A4 - Stab der Weisen / Wisdom Wand (Halloween Town) (Dummy)
+05A5 - Steigender Drache / Rising Dragon (Halloween Town) (Dummy)
+05A6 - Niemandslanze / Nobody Lance (Halloween Town) (Dummy)
+05A7 - Schamanenrelikt / Shaman's Relic (Halloween Town) (Dummy)
+05A8 - "Beta-Stab" / "Beta Staff" (Dummy)
+05A9 - "Prinz Erik Statue" / "Prince Eric Statue" (Objekt / Object) (Dummy)
+05AA - "Prinz Erik Statue (Gesicht)" / "Prince Eric Statue (Face)" (Objekt / Object) (Dummy)
+05AB - Skateboard (nur f・ Roxas! / only for Roxas!) (Objekt / Object)
+05AC - "Schatz" / "Treasure" (Objekt / Object) (Dummy)
+05AD - "Box" (Objekt / Object) (Dummy)
+05AE - "Clown Box" (Objekt / Object) (Dummy)
+05AF - "Kerzenst舅der" / "Candelabrum" (Objekt / Object) (Dummy)
+05B0 - "Gabel" / "Fork" (Objekt / Object) (Dummy)
+05B1 - "Globus" / "Globe" (Objekt / Object) (Dummy)
+05B2 - "Ballon" / "Balloon" (Objekt / Object) (Dummy)
+05B3 - "leerer Honigtopf" / "empty Honey Pot" (Objekt / Object) (Dummy)
+05B4 - "Honigtopf" / "Honey Pot" (Objekt / Object) (Dummy)
+05B5 - "Hocker" / "Stool" "Honigtopf" / "Honey Pot" (Objekt / Object) (Dummy)
+05B6 - "zerkratztes Winnie Puuh Buch" / "scratched Winnie the Pooh Book" (Objekt / Object) (Dummy)
+05B7 - "I-Ahs Haus" / "Eeyore's House" (Objekt / Object) (Dummy)
+05B8 - "Pyramiden Ding" / "Pyramid Thing" (Objekt / Object) (Dummy)
+05B9 - "Regenbogenapfel" / "Rainbow Apple" (Objekt / Object) (Dummy)
+05BA - "Regenbogen Frucht?" / "Rainbow Fruit?" (Objekt / Object) (Dummy)
+05BB - "Twilight Town Zug" / "Twilight Town Train" (Reaktionskommando / Reaction Command) (Objekt / Object)
+05BC - Schatten-Infanterist / Armored Knight (Gegner! / Enemy!)
+05BD - Wachroboter / Surveillance Robot (Gegner! / Enemy!)
+05BE - "unsichtbares Ziel" / "invisible Target" (Objekt / Object)
+05BF - "Schlangen Vase" / "Snake Vase" (Objekt / Object) (Dummy)
+05C0 - "Kachel" / "Glazed Tile" (Objekt / Object) (Dummy)
+05C1 - "Felsst・ke" / "Rock Parts" (Objekt / Object) (Dummy)
+05C2 - Giant Rock Titan (T-Pose / T-Stance) (Dummy)
+05C3 - "Nichts" / "Nothing"
+05C4 - "Nichts" / "Nothing"
+05C5 - "Tanzende Figur" / "Dancing Figure" (Objekt / Object) (Dummy)
+05C6 - "Schatulle" / "Casket" (Objekt / Object) (Dummy)
+05C7 - "Muscheln" / "Seashells" (Objekt / Object) (Dummy)
+05C8 - "Stift" / "Pen" (Objekt / Object) (Dummy)
+05C9 - "Groﾟe Musikmuscheln" / "Big Music Shells" (Objekt / Object) (Dummy)
+05CA - "Groﾟe Musikmuschel" / "Big Music Shell" (Objekt / Object) (Dummy)
+05CB - "kleines Boot" / "tiny Boat" (Objekt / Object) (Dummy)
+05CC - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+05CD - "Delphin Dummys" / Dolphin Dummies" (Objekt / Object) (Dummy)
+05CE - Gef舅gnisw舐ter / Prison Keeper (Boss!)
+05CF - Donald (Fluss der Nostalgie / Timeless River) (Glitchy)
+05D0 - Die Marionette / The Experiment (Boss!)
+05D1 - Sora (Len-Form / Lion Form) (Dummy)
+05D2 - "kleine Flasche" / "little Bottle" (Objekt / Object) (Dummy)
+05D3 - Sora (KHI) (schattiert, shadowed) (Objekt / Object) (Dummy)
+05D4 - "Jack Sparrows Kompass" / "Jack Sparro's Compass" (Objekt / Object) (Dummy)
+05D5 - "Winnie Puuh Buch" / "Winnie the Pooh Book" (Objekt / Object) (Dummy)
+05D6 - "Vorhang" / "Curtain" (Objekt / Object) (Dummy)
+05D7 - "Soras Beh舁ter (Front)" / "Sora's Pot (Front)" (Objekt / Object) (Dummy)
+05D8 - "T・ zum Fluss der Nostalgie" / "Door to Timeless River" (Objekt / Object) (Dummy)
+05D9 - "Anker" / "Anchor" (Objekt / Object) (Dummy)
+05DA - "Kellert・" / "Basement Door" (Objekt / Object) (Dummy)
+05DB - "TT Fenster" / "TT Window" (Objekt / Object) (Dummy)
+05DC - "Paddel" / "Oar" (Objekt / Object) (Dummy)
+05DD - Goofy (Space Paranoids) (T-Pose / T-Stance) (Dummy)
+05DE - "Elizabeths Arm" / "Elizabeth's Arm" (Objekt / Object) (Dummy)
+05DF - "Barbossas Arm" / "Barbossa's Arm" (Objekt / Object) (Dummy)
+05E0 - "Photo" (Objekt / Object) (Dummy)
+05E1 - "Weinflasche" / "Wine Bottle" (Objekt / Object) (Dummy)
+05E2 - "Black Pearl T・" / "Black Pearl Door" (Objekt / Object) (Dummy)
+05E3 - "Black Pearl Stuhl" / "Black Pearl Chair" (Objekt / Object) (Dummy)
+05E4 - "Wills Pistole" / "Will's Gun" (Objekt / Object) (Dummy)
+05E5 - "Braune Holzt・" / "Wooden brown Door" (Objekt / Object) (Dummy)
+05E6 - "Nichts" / "Nothing"
+05E7 - "Messer" / "Knife" (Objekt / Object) (Dummy)
+05E8 - "Jack Sparrows Pistole" / "Jack Sparrow's Gun" (Objekt / Object) (Dummy)
+05E9 - "Freeze"
+05EA - Teppich / Carpet (NPC)
+05EB - "Seil" / "Rope" (Objekt / Object) (Dummy)
+05EC - "Seil" / "Rope" (Objekt / Object) (Dummy)
+05ED - "Seil" / "Rope" (Objekt / Object) (Dummy)
+05EE - "Seil" / "Rope" (Objekt / Object) (Dummy)
+05EF - Donald (Men-Form / Gull-Form)
+05F0 - "Nichts" / "Nothing"
+05F1 - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+05F2 - "Nichts" / "Nothing"
+05F3 - "Nichts" / "Nothing"
+05F4 - "Nichts" / "Nothing"
+05F5 - Sora (auf dem Lichtrenner-Pose / on the Lightcycle-Stance)
+05F6 - "Nichts" / "Nothing"
+05F7 - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+05F8 - Luxord (Keine HP Leiste / No HP-Bar) (Boss!)
+05F9 - Weisen-Form / Wisdom Form (Dummy)
+05FA - Meister-Form / Master-Form (Dummy)
+05FB - ﾜber-Form / Final-Form (Dummy)
+05FC - Barbossa (untot / undead) (T- Pose / T-Stance) (Dummy)
+05FD - "Blaue T・" / "Blue Door (Objekt / Object) (Dummy)
+05FE - "Xehanort Portrait" (Objekt / Object) (Dummy)
+05FF - "Luxords Karte" / "Luxord's Card" (Boss!)
+0600 - "Maulwurfsloch" / "Mole Hole" (Objekt / Object) 
+0601 - Sora (Karten-Form / Card-Form)
+0602 - Sora (W・fel-Form / Dice-Form)
+0603 - "Nichts" / "Nothing"
+0604 - "Ein Fenster vom Fluss der Nostalgie" / "A window from Timeless River" (Objekt / Object) (Dummy)
+0605 - "Puuhs Haus Palette" / "Pooh's House Palette" (Objekt / Object) (Dummy)
+0606 - D舂merling / Dusk (NPC) (Dummy)
+0607 - Sensenmeister / Grim Reaper (Boss!) (knte abst・zen... / may crash...)
+0608 - "Ankleben" (Reaktionskommando / Reaction Command)
+0609 - "Freeze"
+060A - "Ein Messer" / "A Knife" (Objekt / Object) (Dummy)
+060B - "Freeze"
+060C - "Freeze"
+060D - "Freeze"
+060E - "Freeze"
+060F - "Freeze"
+0610 - "Freeze"
+0611 - Luxord (T-Pose / T-Stance) (Dummy)
+0612 - "Element Ball" (Feuer / Fire)
+0613 - "Element Ball" (Eis / Ice)
+0614 - "Element Ball" (Blitz/ Thunder)
+0615 - "Tor zum Twilight Town Herrenhaus" / "the gate to the mansion in twilight town" (Objekt / Object) (Dummy)
+0616 - "Vorh舅geschloss" / "Padlock" (Objekt / Object) (Dummy)
+0617 - "Meersalz-Eis Eiskrem-Bar" / "Sea Salt Ice Cream Bar" (Objekt / Object) (Dummy)
+0618 - "Ein Geschenk aus Halloween Town" / "A present from halloween town"
+0619 - "Freeze"
+061A - "kleine Schatzkiste" / "little treasure chest" (Port Royal) (Freeze)
+061B - Goofy (Schildkren-Form / Turtle-Form)
+061C - Squall / Leon (Partner!)
+061D - "Freeze"
+061E - "Nichts" / "Nothing"
+061F - Minnie (T- Pose / T-Stance) (Dummy)
+0620 - "Schrott" / "Junk" (Objekt / Object) 
+0621 - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+0622 - Xigbar (Boss!)
+0623 - "verschwindener Sand" / "disappearing Sand"  (Objekt? / Object?) 
+0624 - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+0625 - Bienen / Bees (Gegner! / Enemy!)
+0626 - "Nichts" / "Nothing"
+0627 - Bolzenturm / Bolt Tower (Gegner! / Enemy!)
+0628 - Bolzenturm / Bolt Tower (Gegner! / Enemy!)
+0629 - Talerbeutel / Wallet (Objekt / Object) (Dummy)
+062A - Vulkanlord / Volcano Lord (Boss!) (Freeze!)
+062B - Blizzardlord / Blizzard Lord (Boss!) (Freeze!)
+062C - "Org. Stuhl" / "Org. Chair" (Objekt / Object) (Dummy)
+062D - "Freeze"
+062E - "Freeze"
+062F - "Freeze"
+0630 - "Freeze"
+0631 - "Freeze"
+0632 - "Freeze"
+0633 - "Freeze"
+0634 - "Freeze"
+0635 - "Freeze"
+0636 - "Freeze"
+0637 - "Freeze"
+0638 - "Fotoapparat" / "Camera " (Objekt / Object) (Dummy)
+0639 - Dschafars Wasserklon (unverwundbar) / Jafar's Water Clone (invincible) (Boss!)
+063A - "Unsichtbares Ziel" / "Invisible Target" (Gegner? / Enemy?)
+063B - "Teil der Black Pearl?" / "Part from Black Pearl" (Objekt / Object) (Dummy)
+063C - Riku (Boss!)
+063D - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+063E - Riku (Org. Outfit) (T- Pose / T-Stance) (Dummy)
+063F - "Azteken Schatz" / "Aztecs Treasure" (Objekt / Object) (Dummy)
+0640 - "fliegende Tr・mer" / "flying wreckage" (Dschafar Kampf / Jafar Battle) (Objekt / Object) (Dummy)
+0641 - "fliegende Tr・mer" / "flying wreckage" (Dschafar Kampf / Jafar Battle) (Objekt / Object) (Dummy)
+0642 - "fliegende Tr・mer" / "flying wreckage" (Dschafar Kampf / Jafar Battle) (Objekt / Object) (Dummy)
+0643 - "Nichts" / "Nothing"
+0644 - "Nichts" / "Nothing"
+0645 - "Azteken Schatz" / "Aztecs Treasure" (Objekt / Object) (Dummy)
+0646 - Xemnas (1. Battle) (Boss!)
+0647 - Karlo / Pete (Fluss der Nostalgie / Timeless River) (Boss!)
+0648 - "CD" (Objekt / Object) (Dummy)
+0649 - "blauer Stein" / "blue Stone" (Objekt / Object) (Dummy)
+064A - "weiﾟe Flamme" / "white Flame" (Gegner! / Enemy!)
+064B - "Freeze"
+064C - "brennendes Haus" / "burning House" (Objekt / Object) (Dummy)
+064D - Mufasa (blau / blue) (Dummy)
+064E - "DiZ' Maschine" / "DiZ' Machine" (Objekt / Object) (Dummy)
+064F - "Hayners Brief" / "Hayner's Letter" (Objekt / Object) (Dummy)
+0650 - "TT-M・ze" / "TT-Coin" (Objekt / Object) (Dummy)
+0651 - Champion-Gurt / Champion-Belt (Objekt / Object) (Dummy)
+0652 - "Malefiz' Robe" (Objekt / Object) (Dummy)
+0653 - "weiﾟer W・fel" / "white Cube" (Objekt / Object) (Dummy)
+0654 - Lichtrenner / Light Cycle (Objekt / Object) (Dummy)
+0655 - "Freeze"
+0656 - Sora (Space Paranoids) (Glitchy)
+0657 - Sora (Fluss der Nostalgie / Timeless River) (Glitchy)
+0658 - "Seil" / "Rope" (Objekt / Object) (Dummy)
+0659 - "rote Stange" / "red Rod" (Objekt / Object) (Dummy)
+065A - "Nichts" / "Nothing"
+065B - "Nichts" / "Nothing"
+065C - "Freeze"
+065D - "Nichts" / "Nothing"
+065E - "Freeze"
+065F - "Nichts" / "Nothing"
+0660 - "Nichts" / "Nothing"
+0661 - "Honig-Topf" / "Honey Pot" (Objekt / Object) (Dummy)
+0662 - "Nichts" / "Nothing"
+0663 -  Winnie Puuh (auf Soras Schultern) / Winnie the Pooh (on Sora's Shoulders)
+0664 - "Nichts" / "Nothing"
+0665 - "Nichts" / "Nothing"
+0666 - "Nichts" / "Nothing"
+0667 - "Nichts" / "Nothing"
+0668 - "Freeze"
+0669 - Sora (Helden-Form / Valor-Form) (Space Paranoids) (Glitchy)
+066A - Sora (Helden-Form / Valor-Form) (Fluss der Nostalgie / Timeless River) (Glitchy)
+066B - Sora (Weisen-Form / Wisdom Form) (Space Paranoids) (Glitchy)
+066C - Sora (Weisen-Form / Wisdom Form) (Fluss der Nostalgie / Timeless River) (Glitchy)
+066D - Sora (Meister-Form / Master-Form) (Space Paranoids) (Glitchy)
+066E - Sora (Meister-Form / Master-Form) (Fluss der Nostalgie / Timeless River) (Glitchy)
+066F - Sora (ﾜber-Form / Final-Form) (Space Paranoids) (Glitchy)
+0670 - Sora (ﾜber-Form / Final-Form)(Fluss der Nostalgie / Timeless River) (Glitchy)
+0671 - Sora (Anti-Form) (Space Paranoids) (Glitchy)
+0672 - Sora (Anti-Form) (Fluss der Nostalgie / Timeless River) (Glitchy)
+0673 - Xigbar (T- Pose / T-Stance) (Dummy)
+0674 - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+0675 - Raijin (T- Pose / T-Stance) (Dummy)
+0676 - Fujin (T- Pose / T-Stance) (Dummy)
+0677 - "Nichts" / "Nothing"
+0678 - Cifer / Seifer (Boss!)
+0679 - "Nichts?" / "Nothing?"
+067A - "Freeze"
+067B - "weiﾟes Areal" / "white Area?"
+067C - "Nichts" / "Nothing"
+067D - "Nichts" / "Nothing"
+067E - "Azteken Schatz" (blau) / "Aztecs Treasure" (blue) (Objekt / Object) (Dummy)
+067F - "Black Pearl T・" / "Black Pearl Door" (Objekt / Object) (Dummy)
+0680 - Moiren-Cup-Pokal / Goddess of Fate Cup Trophy (Objekt / Object) (Dummy)
+0681 - Zerberus-Cup-Pokal / Cerberus Cup Trophy (Objekt / Object) (Dummy)
+0682 - Titanen-Cup-Pokal / Titan Cup Trophy (Objekt / Object) (Dummy)
+0683 - Hades-Paradox-Cup Pokal / Hades Paradox Cup Trophy (Objekt / Object) (Dummy)
+0684 - "Braune Doppelt・" / "Brown Dual Door" (Objekt / Object) (Dummy)
+0685 - Hayner (NPC) (Dummy)
+0686 - Kugelfeuer / Fiery Globe (Gegner! / Enemy!)
+0687 - W・feleis / Icy Cube (Gegner! / Enemy!)
+0688 - Cloud (Partner!)
+0689 - Kugelfeuer / Fiery Globe (Gegner! / Enemy!)
+068A - W・feleis / Icy Cube (Gegner! / Enemy!)
+068B - Tetrabot (Weiﾟ) / Magnum Loader (White) (Gegner! / Enemy!)
+068C - "Agrabah Dungeon Statue (Orange)" (Objekt / Object) (Dummy)
+068D - Squall / Leon (T-Pose / T-Stance) (Dummy)
+068E - Cloud (T-Pose / T-Stance) (Dummy)
+068F - "Freeze"
+0690 - Cifer / Seifer (T-Pose / T-Stance) (Dummy)
+0691 - "Gnu Herde" / "Wildebeest Stove" (Dummy)
+0692 - "Yen Sid's Stuhl" / "Yen Sid's Chair" (Objekt / Object) (Dummy)
+0693 - "Freeze"
+0694 - "Yen Sid's T・" / "Yen Sid's Door" (Objekt / Object) (Dummy)
+0695 - Sora (Space Paranoids) (T-Pose / T-Stance) (Dummy)
+0696 - Sora (Helden-Form / Valor-Form) (Space Paranoids) (T-Pose / T-Stance) (Dummy)
+0697 - Sora (Weisen-Form / Wisdom Form) (Space Paranoids) (T-Pose / T-Stance) (Dummy)
+0698 - Sora (Meister-Form / Master-Form) (Space Paranoids) (T-Pose / T-Stance) (Dummy)
+0699 - "Freeze"
+069A - Sora (ﾜber-Form / Final-Form) (Space Paranoids) (T-Pose / T-Stance) (Dummy)
+069B - "Yen Sid's Buch" / "Yen Sid's Book" (Objekt / Object) (Dummy)
+069C - "Ansems DTD Zeichnung" / "Ansem's DTD Drawing" (Objekt / Object) (Dummy)
+069D - "Hollow Bation Restoration Committee Card" (Objekt / Object) (Dummy)
+069E - "T・ fnen" / "open Door" (Reaktionskommando / Reaction Command)
+069F - "T・ fnen" / "open Door" (Reaktionskommando / Reaction Command)
+06A0 - "T・ fnen" / "open Door" (Reaktionskommando / Reaction Command)
+06A1 - "Freeze"
+06A2 - Tigger (T-Pose / T-Stance) (Dummy)
+06A3 - Ruuh / Roo (T-Pose / T-Stance) (Dummy)
+06A4 - "Freeze"
+06A5 - "Freeze"
+06A6 - "Freeze"
+06A7 - "Freeze"
+06A8 - "Freeze"
+06A9 - "Freeze"
+06AA - "Freeze"
+06AB - "Freeze"
+06AC - "Freeze"
+06AD - "Freeze"
+06AE - "Kuttenmann" / "Man with Coat" (T- Pose / T-Stance) (Dummy)
+06AF - "Schrott" / "Junk" (angreiffbar / attackable) (Objekt / Object)
+06B0 - Yuffie (Partner!)
+06B1 - Ansem der Weise / Ansem the Wise (T- Pose / T-Stance) (Dummy)
+06B2 - Yen Sid (T- Pose / T-Stance) (Dummy)
+06B3 - Tifa (Partner!)
+06B4 - Sora (Dummy) (Freeze)
+06B5 - Tetrabot (Blau) / Magnum Loader (Blue) (Gegner! / Enemy!)
+06B6 - Tetrabot (Gelb) / Magnum Loader (Yellow) (Gegner! / Enemy!)
+06B7 - Tetrabot (Green) / Magnum Loader (Green) (Gegner! / Enemy!)
+06B8 - "Die Black Pearl (feuernd)" / "The Black Pearl (fireing)" (Objekt / Object)
+06B9 - "Kanonenkugel" / "Cannon Ball" (Reaktionskommando / Reaction Command)
+06BA - "Freeze"
+06BB - Karlo / Pete (Megara Battle) (Boss!)
+06BC - Karlo / Pete (Hercules Battle) (Boss!)
+06BD - Gulliver-Kanone / Gulliver Turret (Objekt / Object) (Dummy)
+06BE - "Freeze"
+06BF - Berserker-Schwert / Berserker Sword (Objekt / Object) (Gegner! / Enemy!)
+06C0 - Sora (W・fel) / Sora (Dice) (Objekt / Object)
+06C1 - Sora (Kingdom Hearts I Costume)
+06C2 - I-Ah / Eeyore (Partner!)
+06C3 - Tigger (Partner!)
+06C4 - Piglet (Partner!)
+06C5 - Ruuh / Roo (Partner!)
+06C6 - Ansem der Weise / Ansem the Wise (T- Pose / T-Stance) (Dummy)
+06C7 - Selphie (T- Pose / T-Stance) (Dummy)
+06C8 - H臧nchen Junior / Chicken Little (Beschwung / Summon)
+06C9 - Sa・ (Boss!)
+06CA - "Kristall" / "Crystal" (Objekt / Object) (Dummy)
+06CB - Xemnas (T- Pose / T-Stance) (Dummy)
+06CC - "Azteken Schatz" (Sensenmeister Kampf) / "Aztecs Treasure" (Grim Reaper Battle) (Objekt / Object) (Dummy)
+06CD - "Beta Ding"/ Beta Thing" (Space Paranoids) (Objekt / Object) (Dummy)
+06CE - "Winnie mit Topf auf dem Kopf" / "Winnie with Pot on the Head" (Reaktionskommando / Reaction Command)
+06CF - Sa・ (T- Pose / T-Stance) (Dummy)
+06D0 - Propellerdrohnen in Massen / Rapid Thruster Galore (Dummy)
+06D1 - "Portal (Fenster)" / "Portal (Window)" (Fluss der Nostalgie / Timeless River) (Objekt / Object) (Dummy)
+06D2 - "Portal (Fenster)" / "Portal (Window)" (Fluss der Nostalgie / Timeless River) (Objekt / Object) (Dummy)
+06D3 - "Portal (Fenster)" / "Portal (Window)" (Fluss der Nostalgie / Timeless River) (Objekt / Object) (Dummy)
+06D4 - "Freeze"
+06D5 - "Freeze"
+06D6 - "Freeze"
+06D7 - "unsichtbares Ziel" / "invisible Target" (Objekt / Object)
+06D8 - "TT-Zug" / "TT-Train" (Objekt / Object) (Dummy)
+06D9 - "T・ vom TT-Zug" / "Door from TT-Train" (Objekt / Object) (Dummy)
+06DA - "T・ vom TT-Zug" / "Door from TT-Train" (Objekt / Object) (Dummy)
+06DB - "Nichts" / "Nothing"
+06DC - "schwebender Honig Topf" / "floating Honey Pot" (Objekt / Object) (Dummy)
+06DD - Sora (KHI Costume) (T- Pose / T-Stance) (Dummy)
+06DE - Gulliver-Kanone / Gulliver Turret (Objekt / Object) (Dummy)
+06DF - "h舅gende Plattform" / "hanging Platform" (Objekt / Object)
+06E0 - Wahrsagerin / Fortuneteller (Gegner! / Enemy!)
+06E1 - "Nichts?" / "Nothing?"
+06E2 - MCP (Boss!) (Dummy)
+06E3 - "Stift" / "Pencil" (Objekt / Object) (Dummy)
+06E4 - "Zeichenblock" / "Sketch Block" (Objekt / Object) (Dummy)
+06E5 - "schwebendes Gebilde vom Endekampf" / "floating Building from the End Battle" (+ RK / RC) (Objekt / Object) 
+06E6 - "schwebendes Gebilde vom Endekampf" / "floating Building from the End Battle" (Objekt / Object)
+06E7 - "Ferkels Haus Pop-up" / "Piglet's House Pop-up" (Objekt / Object) (Dummy)
+06E8 - "Rabitts Haus Pop-up" / "Rabitt's House Pop-up" (Objekt / Object) (Dummy)
+06E9 - "Kangas Haus Pop-up" / "Kanga'ss House Pop-up" (Objekt / Object) (Dummy)
+06EA - "Gruselhle Pop-up" / "Spooky Cave Pop-up" (Objekt / Object) (Dummy)
+06EB - "Abschied unterm Sternenhimmel-Pop-up" / "Stary Hill Pop-up" (Objekt / Object) (Dummy)
+06EC - "weiﾟes Ding..." / "white Thing" (Objekt / Object) (Dummy)
+06ED - "Nichts" / "Nothing"
+06EE - Gruselk・bis / Graveyard (Gegner! / Enemy!)
+06EF - Gruselk・bis / Graveyard (Halloween Town) (Gegner! / Enemy!)
+06F0 - Gruselk・bis / Graveyard (Christmas Town) (Gegner! / Enemy!)
+06F1 - Gruselk・bis / Graveyard (Christmas Town, Halloween Town) (Gegner! / Enemy!)
+06F2 - Sephiroth (Block-Pose / Guard Stance) (Boss!)
+06F3 - Kigsanh舅ger / Kingdom Keyblade (Space Paranoids) (Dummy)
+06F4 - Zauberstab / Mage's Staff (Space Paranoids) (Dummy)
+06F5 - Ritterschild / Knight's Shield (Space Paranoids) (Dummy)
+06F6 - MCP Face (Dummy)
+06F7 - "Steuerrad" / "Steering Wheel" (Objekt / Object) (Dummy)
+06F8 - "Irgendwas..." / "Something..." (Objekt / Object) (Dummy)
+06F9 - "Schildkrenpanzer" / "Turtle Armor" (Objekt / Object) (Dummy)
+06FA - Sa・-Schwert / Sa・-Sword (Objekt / Object) (Boss!)
+06FB - "Kr・el..." / "Crumb..." (Objekt / Object) (Dummy)
+06FC - "Baum" / "Tree" (Objekt / Object) (Dummy)
+06FD - "Rafikis Schale" / "Rafiki's Bowl" (Objekt / Object) (Dummy)
+06FE - Mufasa (Dummy)
+06FF - "Freeze"
+0700 - "Freeze"
+0701 - "Photo" (Objekt / Object) (Dummy)
+0702 - "Photo" (Objekt / Object) (Dummy)
+0703 - "Photo" (Objekt / Object) (Dummy)
+0704 - "Photo" (Objekt / Object) (Dummy)
+0705 - "Photo" (Objekt / Object) (Dummy)
+0706 - "Freeze"
+0707 - "Freeze"
+0708 - "Freeze"
+0709 - "Freeze"
+070A - "Freeze"
+070B - "Freeze"
+070C - "Freeze"
+070D - "Freeze"
+070E - "Freeze"
+070F - "Freeze"
+0710 - Die Marionette / The Experiment (Kopf / Head) (Boss!)
+0711 - Die Marionette / The Experiment ("linke / left Hand") (Boss!)
+0712 - Die Marionette / The Experiment ("rechte / right Hand") (Boss!)
+0713 - "Freeze"
+0714 - Simba (Dummy)
+0715 - Sora (Halloween Town) (T-Pose / T-Stance) (Dummy)
+0716 - Sora (Helden-Form / Valor-Form) (Halloween Town) (T-Pose / T-Stance) (Dummy)
+0717 - Sora (Weisen-Form / Wisdom Form) (Halloween Town) (T-Pose / T-Stance) (Dummy)
+0718 - Sora (Meister-Form / Master-Form) (Halloween Town)(T-Pose / T-Stance) (Dummy)
+0719 - Sora (ﾜber-Form / Final-Form) (Halloween Town) (T-Pose / T-Stance) (Dummy)
+071A - Roxas (Org. Outfit) (T-Pose / T-Stance) (Dummy)
+071B - Twilight Town Skate Mini Game Lady (NPC) (Dummy)
+071C - "h舅gende Plattform" / "hanging Platform" (Objekt / Object) (Dummy)
+071D - Bolzenturm / Bolt Tower + Propellerdrohne / Rapid Thruster (in Massen / in Mass) (Gegner! / Enemy!)
+071E - "lebender Sack" / "living Bag" (Objekt / Object)
+071F - "Freeze"
+0720 - "Freeze"
+0721 - "Freeze"
+0722 - "Freeze"
+0723 - Schizo-Spuk / Trick Ghost (Halloween Town) (Gegner! / Enemy!)
+0724 - Blauer Baron / Aeroplane (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+0725 - Bombenmoloch / Minute Bomb (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+0726 - Hammerlakai / Hammer Frame (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+0727 - Retro-Raser / Hot Rod (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+0728 - Blerbolzen / Cannon Gun (Space Paranoids) (Gegner! / Enemy!)
+0729 - Drilling / Mole Driller (Halloween Town) (Gegner! / Enemy!)
+072A - Saphirling / Emerald Blues (Halloween Town) (Gegner! / Enemy!)
+072B - Magus Magnus / Bookmaster (Space Paranoids) (Gegner! / Enemy!)
+072C - Schattenschalk / Neoshadow (Halloween Town) (Gegner! / Enemy!)
+072D - Schauderplanze / Creeper Plant (Halloween Town) (Gegner! / Enemy!)
+072E - Klappersoldat / Soldier (Halloween Town) (Gegner! / Enemy!)
+072F - Klappersoldat / Soldier (Space Paranoids) (Gegner! / Enemy!)
+0730 - Schattenlurch / Shadow (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+0731 - Schattenlurch / Shadow (Halloween Town) (Gegner! / Enemy!)
+0732 - Schattenlurch / Shadow (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+0733 - Propellerdrohne / Rapid Thruster (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+0734 - "Freeze"
+0735 - Schatten-Infanterist / Armored Knight (Halloween Town) (Gegner! / Enemy!)
+0736 - "Freeze"
+0737 - Wachroboter / Surveillance Robot (Space Paranoids) (Gegner! / Enemy!)
+0738 - "Freeze"
+0739 - Klappersoldat / Soldier (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+073A - Riku (Blind / Blinded) (T-Pose / T-Stance) (Dummy)
+073B - "Struggle-Battle-Schl臠er" / "Struggle-Battle-Bat" (Dummy)
+073C - Saphirling / Emerald Blues (Space Paranoids) (Gegner! / Enemy!)
+073D - "Freeze"
+073E - "Freeze"
+073F - "Freeze"
+0740 - "Freeze"
+0741 - "Freeze"
+0742 - Riku (Xehanort Form) (NPC) (Dummy)
+0743 - Kairi (NPC) (Dummy)
+0744 - "Irgendwas seltsames..." / "Some weird thing..." (Objekt / Object) (Dummy)
+0745 - Micky / Mickey (ohne Kutte / without Coat) (NPC) (Dummy)
+0746 - Hollow Bastion Item Shop Boy (NPC) (Dummy) 
+0747 - Hollow Bastion Item Shop Guy (NPC) (Dummy)
+0748 - Twilight Town Item Shop Boy (NPC) (Dummy)
+0749 - Twilight Town Guy (NPC) (Dummy)
+074A - "Nichts" / "Nothing"
+074B - "Nichts" / "Nothing"
+074C - Gummischiff / Gummi Ship (Dummy)
+074D - Belle (Sitzend / Sitting) (NPC) (Dummy)
+074E - Will Turner (Sitzend / Sitting) (NPC) (Dummy)
+074F - Hercules (Sitzend / Sitting) (NPC) (Dummy)
+0750 - Sally (Sitzend / Sitting) (NPC) (Dummy)
+0751 - Cid (Sitzend / Sitting) (NPC) (Dummy)
+0752 - "roter Stofffetzen" / "red Rag" (Objekt / Object) (Dummy)
+0753 - Telebot / Strafer (Gegner! / Enemy!)
+0754 - Roxas' Shadow Doppelgaenger (Boss?)
+0755 - "Freeze"
+0756 - "Felsbrocken" / "Rock" (Objekt / Object)
+0757 - Boy (NPC) (Dummy)
+0758 - Girl (NPC) (Dummy)
+0759 - "Tor" / "Gate" (Objekt / Object) (Dummy)
+075A - "Freeze"
+075B - "Freeze"
+075C - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+075D - Micky / Mickey (ohne Kutte / without Coat) (T-Pose / T-Stance) (Dummy)
+075E - "Nichts" / "Nothing"
+075F - Flederhaken / Hookbat (Agrabah) (Gegner! / Enemy!)
+0760 - Purpurling / Crimson Jazz (Agrabah) (Gegner! / Enemy!)
+0761 - Propellerdrohne / Rapid Thruster (Agrabah) (Gegner! / Enemy!)
+0762 - Man (NPC) (Dummy)
+0763 - Woman (NPC) (Dummy)
+0764 - Micky / Mickey (ohne Kutte / without Coat) (Partner!)
+0765 - "Nichts" / "Nothing"
+0766 - "Freeze"
+0767 - "Freeze"
+0768 - "Freeze" (Gegner! / Enemy!)
+0769 - Sternensucher / Starseeker (Dummy)
+076A - Verborgender Drache / Hidden Dragon (Dummy)
+076B - Heldenwappen / Hero's Crest (Dummy)
+076C - Monochrom / Monochrome (Dummy)
+076D - Folge dem Wind / Port Royal's Keyblade (Dummy)
+076E - Der ewige Kreis / Follow The Wind (Dummy)
+076F - Photonen-Debugger / Photon Debugger (Dummy)
+0770 - Menfl・el / Gullwing (Dummy)
+0771 - Donnerrose / Rambling Rose (Dummy)
+0772 - Seelenw臘hter / Guardian Soul (Dummy)
+0773 - Wunderklinge / Wishes Lamp (Dummy)
+0774 - St. K・binian / Holy Pumpkin (Dummy)
+0775 - Schlafender Le / Sleeping Lion (Dummy)
+0776 - S・e Nostalgie / Sweet Memory (Dummy)
+0777 - Mysterier Graben / Mysterious Abyss (Dummy)
+0778 - Unheilbringer / Fatal Crest (Dummy)
+0779 - Flammenfesseln / Bond Of Flame (Dummy)
+077A - Fenrir (Dummy)
+077B - Ultima (Dummy)
+077C - Struggle Bat A  (Dummy)
+077D - Struggle Bat B  (Dummy)
+077E - Sternensucher / Starseeker (Halloween Town) (Dummy)
+077F - Verborgender Drache / Hidden Dragon (Halloween Town) (Dummy)
+0780 - Heldenwappen / Hero's Crest (Halloween Town) (Dummy)
+0781 - Monochrom / Monochrome (Halloween Town) (Dummy)
+0782 - Folge dem Wind / Port Royal's Keyblade (Halloween Town) (Dummy)
+0783 - Der ewige Kreis / Follow The Wind (Halloween Town) (Dummy)
+0784 - Photonen-Debugger / Photon Debugger (Halloween Town) (Dummy)
+0785 - Menfl・el / Gullwing (Halloween Town) (Dummy)
+0786 - Donnerrose / Rambling Rose (Halloween Town) (Dummy)
+0787 - Seelenw臘hter / Guardian Soul (Halloween Town) (Dummy)
+0788 - Wunderklinge / Wishes Lamp (Halloween Town) (Dummy)
+0789 - St. K・binian / Holy Pumpkin (Halloween Town) (Dummy)
+078A - Schlafender Le / Sleeping Lion (Halloween Town) (Dummy)
+078B - S・e Nostalgie / Sweet Memory (Halloween Town) (Dummy)
+078C - Mysterier Graben / Mysterious Abyss (Halloween Town) (Dummy)
+078D - Unheilbringer / Fatal Crest (Halloween Town) (Dummy)
+078E - Flammenfesseln / Bond Of Flame (Halloween Town) (Dummy)
+078F - Fenrir (Dummy) (Halloween Town) (Dummy)
+0790 - Ultima (Dummy) (Halloween Town) (Dummy)
+0791 - Sternentreue / Oathkeeper (Space Paranoids) (Dummy)
+0792 - Memoire / Oblivion (Space Paranoids) (Dummy)
+0793 - Sternensucher / Starseeker (Space Paranoids) (Dummy)
+0794 - Verborgender Drache / Hidden Dragon (Space Paranoids) (Dummy)
+0795 - Heldenwappen / Hero's Crest (Space Paranoids) (Dummy)
+0796 - Monochrom / Monochrome (Space Paranoids) (Dummy)
+0797 - Folge dem Wind / Port Royal's Keyblade (Space Paranoids) (Dummy)
+0798 - Der ewige Kreis / Follow The Wind (Space Paranoids) (Dummy)
+0799 - Photonen-Debugger / Photon Debugger (Space Paranoids) (Dummy)
+079A - Menfl・el / Gullwing (Space Paranoids) (Dummy)
+079B - Donnerrose / Rambling Rose (Space Paranoids) (Dummy)
+079C - Seelenw臘hter / Guardian Soul (Space Paranoids) (Dummy)
+079D - Wunderklinge / Wishes Lamp (Space Paranoids) (Dummy)
+079E - St. K・binian / Holy Pumpkin (Space Paranoids) (Dummy)
+079F - Schlafender Le / Sleeping Lion (Space Paranoids) (Dummy)
+07A0 - S・e Nostalgie / Sweet Memory (Space Paranoids) (Dummy)
+07A1 - Mysterier Graben / Mysterious Abyss (Space Paranoids) (Dummy)
+07A2 - Unheilbringer / Fatal Crest (Space Paranoids) (Dummy)
+07A3 - Flammenfesseln / Bond Of Flame (Space Paranoids) (Dummy)
+07A4 - Fenrir (Space Paranoids) (Dummy)
+07A5 - Ultima (Space Paranoids) (Dummy)
+07A6 - Sternentreue / Oathkeeper (Fluss der Nostalgie / Timeless River) (Dummy)
+07A7 - Memoire / Oblivion (Fluss der Nostalgie / Timeless River) (Dummy)
+07A8 - Sternensucher / Starseeker (Fluss der Nostalgie / Timeless River) (Dummy)
+07A9 - Verborgender Drache / Hidden Dragon (Fluss der Nostalgie / Timeless River) (Dummy)
+07AA - Heldenwappen / Hero's Crest (Fluss der Nostalgie / Timeless River) (Dummy)
+07AB - Monochrom / Monochrome (Fluss der Nostalgie / Timeless River) (Dummy)
+07AC - Folge dem Wind / Port Royal's Keyblade (Fluss der Nostalgie / Timeless River) (Dummy)
+07AD - Der ewige Kreis / Follow The Wind (Fluss der Nostalgie / Timeless River) (Dummy)
+07AE - Photonen-Debugger / Photon Debugger (Fluss der Nostalgie / Timeless River) (Dummy)
+07AF - Menfl・el / Gullwing (Fluss der Nostalgie / Timeless River) (Dummy)
+07B0 - Donnerrose / Rambling Rose (Fluss der Nostalgie / Timeless River) (Dummy)
+07B1 - Seelenw臘hter / Guardian Soul (Fluss der Nostalgie / Timeless River) (Dummy)
+07B2 - Wunderklinge / Wishes Lamp (Fluss der Nostalgie / Timeless River) (Dummy)
+07B3 - St. K・binian / Holy Pumpkin (Fluss der Nostalgie / Timeless River) (Dummy)
+07B4 - Schlafender Le / Sleeping Lion (Fluss der Nostalgie / Timeless River) (Dummy)
+07B5 - S・e Nostalgie / Sweet Memory (Fluss der Nostalgie / Timeless River) (Dummy)
+07B6 - Mysterier Graben / Mysterious Abyss (Fluss der Nostalgie / Timeless River) (Dummy)
+07B7 - Unheilbringer / Fatal Crest (Fluss der Nostalgie / Timeless River) (Dummy)
+07B8 - Flammenfesseln / Bond Of Flame (Fluss der Nostalgie / Timeless River) (Dummy)
+07B9 - Fenrir (Fluss der Nostalgie / Timeless River) (Dummy)
+07BA - Ultima (Fluss der Nostalgie / Timeless River) (Dummy)
+07BB - Infantin-Wache / Save The Queen (Dummy)
+07BC - Infantin-Wache / Save The Queen (Halloween Town) (Dummy)
+07BD - Hammerrute / Hammer Staff (Space Paranoids) (Dummy)
+07BE - Siegesglocke / Victory Bell (Space Paranoids) (Dummy)
+07BF - Meteo-Stab / Meteor Staff (Space Paranoids) (Dummy)
+07C0 - Komet-Stab / Comet Staff (Space Paranoids) (Dummy)
+07C1 - Besen des Herren / Lord's Broom (Space Paranoids) (Dummy)
+07C2 - Stab der Weisen / Wisdom Wand (Space Paranoids) (Dummy)
+07C3 - Steigender Drache / Rising Dragon (Space Paranoids) (Dummy)
+07C4 - Niemandslanze / Nobody Lance (Space Paranoids) (Dummy)
+07C5 - Schamanenrelikt / Shaman's Relic (Space Paranoids) (Dummy)
+07C6 - Infantin-Wache / Save The Queen (Space Paranoids) (Dummy)
+07C7 - Hammerrute / Hammer Staff (Fluss der Nostalgie / Timeless River) (Dummy)
+07C8 - Siegesglocke / Victory Bell (Fluss der Nostalgie / Timeless River) (Dummy)
+07C9 - Meteo-Stab / Meteor Staff (Fluss der Nostalgie / Timeless River) (Dummy)
+07CA - Komet-Stab / Comet Staff (Fluss der Nostalgie / Timeless River) (Dummy)
+07CB - Besen des Herren / Lord's Broom (Fluss der Nostalgie / Timeless River) (Dummy)
+07CC - Stab der Weisen / Wisdom Wand (Fluss der Nostalgie / Timeless River) (Dummy)
+07CD - Steigender Drache / Rising Dragon (Fluss der Nostalgie / Timeless River) (Dummy)
+07CE - Niemandslanze / Nobody Lance (Fluss der Nostalgie / Timeless River) (Dummy)
+07CF - Schamanenrelikt / Shaman's Relic (Fluss der Nostalgie / Timeless River) (Dummy)
+07D0 - Infantin-Wache / Save The Queen (Fluss der Nostalgie / Timeless River) (Dummy)
+07D1 - Kigswache / Save The King (Dummy)
+07D2 - Kigswache / Save The King (Halloween Town) (Dummy)
+07D3 - Adaman-Schild / Adamant Shield (Space Paranoids) (Dummy)
+07D4 - Kettenw臘hter / Chain Gear (Space Paranoids) (Dummy)
+07D5 - Ogerschild / Ogre Shield (Space Paranoids) (Dummy)
+07D6 - Sternschnuppe / Falling Star (Space Paranoids) (Dummy)
+07D7 - Kumulus-Kranz / Dreamcloud (Space Paranoids) (Dummy)
+07D8 - Ritterwappen / Knight Defender (Space Paranoids) (Dummy)
+07D9 - Genji-Schild / Genji Shield (Space Paranoids) (Dummy)
+07DA - Akasha-Chronik / Akashic Record (Space Paranoids) (Dummy)
+07DB - Niemandswache / Nobody Guard (Space Paranoids) (Dummy)
+07DC - Kigswache / Save The King (Space Paranoids) (Dummy)
+07DD - Adaman-Schild / Adamant Shield (Fluss der Nostalgie / Timeless River) (Dummy)
+07DE - Kettenw臘hter / Chain Gear (Fluss der Nostalgie / Timeless River) (Dummy)
+07DF - Ogerschild / Ogre Shield (Fluss der Nostalgie / Timeless River) (Dummy)
+07E0 - Sternschnuppe / Falling Star (Fluss der Nostalgie / Timeless River) (Dummy)
+07E1 - Kumulus-Kranz / Dreamcloud (Fluss der Nostalgie / Timeless River) (Dummy)
+07E2 - Ritterwappen / Knight Defender (Fluss der Nostalgie / Timeless River) (Dummy)
+07E3 - Genji-Schild / Genji Shield (Fluss der Nostalgie / Timeless River) (Dummy)
+07E4 - Akasha-Chronik / Akashic Record (Fluss der Nostalgie / Timeless River) (Dummy)
+07E5 - Niemandswache / Nobody Guard (Fluss der Nostalgie / Timeless River) (Dummy)
+07E6 - Kigswache / Save The King (Fluss der Nostalgie / Timeless River) (Dummy)
+07E7 - "schwarzer Punkt am Boden" / "black Point on the Ground" (Objekt / Object) (Dummy)
+07E8 - "Der Mond" / "The Moon" (Objekt / Object) (Dummy)
+07E9 - Adowampe / Large Body (Fluss der Nostalgie / Timeless River) (Gegner! / Enemy!)
+07EA - "Katze" / "Cat" (NPC) (Dummy)
+07EB - Boy B (NPC) (Dummy)
+07EC - Girl B (NPC) (Dummy)
+07ED - Guy C (NPC) (Dummy)
+07EE - Girl C (NPC) (Dummy)
+07EF - "Nichts" / "Nothing"
+07F0 - "Nichts" / "Nothing"
+07F1 - "Nichts" / "Nothing"
+07F2 - "Nichts" / "Nothing"
+07F3 - "Nichts" / "Nothing"
+07F4 - "Freeze"
+07F5 - Dschinni / Genie (Beschwung / Summon)
+07F6 - "Freeze"
+07F7 - "Freeze"
+07F8 - "Nichts" / "Nothing"
+07F9 - "Freeze"
+07FA - "Freeze"
+07FB - "Feuer-Attacke" / "Fire Attack" 
+07FC - "Eis-Attacke" / "Ice Attack" 
+07FD - "Nichts" / "Nothing"
+07FE - Riku (Xehanort-Form) (T-Pose / T-Stance) (Dummy)
+07FF - "Kuttenmann" / "Man with Coat" (Dummy)
+0800 - Jack Skellington (NPC) (Dummy)
+0801 - Stock / Stick (Objekt / Object)
+0802 - Donald (Rot / Red) (T-Pose / T-Stance) (Dummy)
+0803 - "Freeze"
+0804 - "Freeze"
+0805 - "Freeze"
+0806 - "Nichts" / "Nothing"
+0807 - "Nichts" / "Nothing"
+0808 - "Nichts" / "Nothing"
+0809 - "Freeze"
+080A - Jack Sparrow (NPC) (Dummy)
+080B - Donald (Halloween Town) (NPC) (Dummy)
+080C - Goofy (Halloween Town) (NPC) (Dummy)
+080D - Donald (Fluss der Nostalgie / Timeless River) (NPC) (Dummy)
+080E - Goofy (Fluss der Nostalgie / Timeless River) (NPC) (Dummy)
+080F - "Nichts" / "Nothing"
+0810 - "Nichts" / "Nothing"
+0811 - "Nichts" / "Nothing"
+0812 - Hades (Boss!)
+0813 - Shan-Yu (Dummy)
+0814 - Mulan (Dummy)
+0815 - "Freeze"
+0816 - "Skateboard Mini Game Checkpoint" (Object)
+0817 - Present (Objekt / Object) (Dummy)
+0818 - Present (Objekt / Object) (Dummy)
+0819 - Riku (Nur Gast / Only Guest)
+081A - Skateboard (Blau / Blue) (Objekt / Object)
+081B - Carpet (NPC) (Dummy)
+081C - Gruselk・bis / Graveyard (Gegner! / Enemy!)
+081D - Jack Sparrow 
+081E - Jack Sparrow (Glitchy)
+081F - Xemnas (Finale) / Final Xemnas (Boss!) (Nichts / Nothing)
+0820 - Kairi (T-Pose / T-Stance) (Dummy)
+0821 - Miracle Sword (Dummy)
+0822 - Miracle Shield (Dummy)
+0823 - Miracle Staff  (Dummy)
+0824 - Struggle Sword (Dummy)
+0825 - Dagobert / Scrooge (NPC) (Dummy)
+0826 - Struggle Bat (Objekt / Object) (Dummy)
+0827 - Donald (Men-Form / Turtle-Form) (NPC) (Dummy)
+0828 - Goofy (Schildkren-Form / Turtle-Form) (NPC) (Dummy)
+0829 - Brick Wall (Object)
+082A - Shenzi (NPC) (Dummy)
+082B - Banzai (NPC) (Dummy)
+082C - Ed (NPC) (Dummy)
+082D - Riku (T-Pose / T-Stance) (Dummy)
+082E - Riku (Org. Outfit) + Oblivion Keyblade (T-Pose / T-Stance) (Dummy)
+082F - Setzer (Boss!)
+0830 - "Barriere vom Xemnas Kampf" / "Barrier from Xemnas Battle" (Objekt / Object) (Dummy)
+0831 - Karlo (Len-Form) / Pete (Lion-Form) (Dummy)
+0832 - "Freeze"
+0833 - Scars Geist / Scar痴 Ghost (Gegner! / Enemy!)
+0834 - "Freeze"
+0835 - "Freeze"
+0836 - "Freeze"
+0837 - "Freeze"
+0838 - "Sack" (Objekt / Object) (Dummy)
+0839 - "Agrabah Turm v1" / "Agrabah Tower v1" (Objekt / Object) (Dummy)
+083A - "Agrabah Turm v2" / "Agrabah Tower v2" (Objekt / Object) (Dummy)
+083B - "Agrabah Turm v3" / "Agrabah Tower v3" (Objekt / Object) (Dummy)
+083C - "groﾟe T・" / "giant Door" (Objekt / Object) (Dummy)
+083D - "groﾟe T・ Wand" / "giant Wall" (Objekt / Object) (Dummy)
+083E - "groﾟe T・ Wand" / "giant Wall" (Objekt / Object) (Dummy)
+083F - Hovercraft (Objekt / Object) (Dummy)
+0840 - "Freeze"
+0841 - Final Boss Glider (Objekt / Object) (Dummy)
+0842 - Sa・'-Schwert / Sa・'- Sword (Objekt / Object) (Dummy)
+0843 - Xigbars Armbrust / Xigbar's Gun Arrow (Objekt / Object) (Dummy)
+0844 - "Nichts" / "Nothing"
+0845 - Xaldins Speere / Xaldin痴 Spears (Objekt / Object) (Dummy)
+0846 - "Nichts" / "Nothing"
+0847 - Shenzi (Boss!)
+0848 - "Nichts" / "Nothing"
+0849 - Twilight Town Girl C (NPC) (Dummy)
+084A - Kairi (T-Pose / T-Stance) (Dummy)
+084B - "Ballschluss-Wand" / "Ball Shooting Wall" (Objekt / Object) (Dummy)
+084C - Axel (NPC) (Dummy)
+084D - Xemnas (NPC) (Dummy)
+084E - Donald (Space Paranoids) (NPC) (Dummy)
+084F - Goofy (Space Paranoids) (NPC) (Dummy)
+0850 - "TT Magie Zug" / TT Magic Train" (Objekt / Object) (Dummy)
+0851 - "TT Waggon" / TT Wagon" (Objekt / Object) (Dummy)
+0852 - Zero (NPC) (Dummy)
+0853 - "TT Magie Zug (T・)" / TT Magic Train (Door)" (Objekt / Object) (Dummy)
+0854 - "kleine Schatzkiste" / "little Treasure Chest" (Das geweihte Land / Pride Land) (Objekt / Object)
+0855 - "Schatzkiste" / "Treasure Chest" (Das geweihte Land / Pride Land) (Objekt / Object)
+0856 - "kleiner goldener Krug" / tiny golden Pot" (aus Phils Minispiel / from Phil's Mini Game) (Objekt / Object) 
+0857 - "groﾟer goldener Krug" / "large golden Pot" (aus Phils Minispiel / from Phil's Mini Game) (Objekt / Object) 
+0858 - "Nichts?" / "Nothing?"
+0859 - "Nichts" / "Nothing"
+085A - Bienen / Bees (Gegner! / Enemy!)
+085B - Bienen / Bees (Gegner! / Enemy!)
+085C - Xemnas (R・tung / Armor) (Boss!)
+085D - Jack Skellington (Christmas Town Outfit) (NPC) (Dummy)
+085E - "kleine Schatzkiste" / "little Treasure Chest" (Christmas Town) (Objekt / Object)
+085F - "Schatzkiste" / "Treasure Chest" (Christmas Town) (Objekt / Object)
+0860 - "Nichts" / "Nothing"
+0861 - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+0862 - "Freeze"
+0863 - "Freeze"
+0864 - "kleine Pyramide" / "tiny Pyramid" (Objekt / Object) (Dummy)
+0865 - Boy D (NPC) (Dummy)
+0866 - Girl D (NPC) (Dummy)
+0867 - Guy D (NPC) (Dummy)
+0868 - Cheering Woman (NPC) (Dummy)
+0869 - Micky / Mickey (T-Pose / T-Stance) (spielbar / playable) (Dummy)
+086A - "Freeze"
+086B - "Freeze"
+086C - Vivi (Boss!) (Spielabsturz nach dem Sieg / Game Crash after defeat)
+086D - Riku (NPC) (Dummy)
+086E - "Stift" / "Pencil" (Objekt / Object) (Dummy)
+086F - Xehanort (weiﾟer Kittel / white Gown) (T-Pose / T-Stance) (Dummy)
+0870 - "Brief" / "Letter" (Objekt / Object) (Dummy)
+0871 - Hercules (T-Pose / T-Stance) (Dummy)
+0872 - "Schrumpfkopf Puuh" / "Shrunken Head Pooh" (NPC) (Dummy)
+0873 - Winnie Puuh Buch / Winnie the Pooh Book (Objekt / Object) (Dummy)
+0874 - "Honig Topf" / "Honey Pot" (Objekt / Object) (Dummy)
+0875 - "Nichts" / "Nothing"
+0874 - "Nichts" / "Nothing"
+0877 - "Nichts" / "Nothing"
+0878 - Sora (KHI Outfit, Rot / Red) (angreiffbar / attackable) (T-Pose / T-Stance) (Dummy)
+0879 - Sora (KHI Outfit, Blau / Blue) (angreiffbar / attackable) (T-Pose / T-Stance) (Dummy)
+087A - Sora (KHI Outfit, Gr・ / Green) (angreiffbar / attackable) (T-Pose / T-Stance) (Dummy)
+087B - "Freeze"
+087C - "M・leimer" / "Bin" (Objekt / Object) (Dummy)
+087D - "Explosionen" / "Explosions" 
+087E - "Freeze"
+087F - Hercules (T-Pose / T-Stance) (Dummy)
+0880 - "Flasche" / "Bottle" (Objekt / Object) (Dummy)
+0881 - "Brief" / "Letter" (Objekt / Object) (Dummy)
+0882 - Mogry Shop (Dummy)
+0883 - "Geschenke Box" / "Present Box" (Christmas Town)
+0884 - "Explosionen" / "Explosions"
+0885 - "Dampfbot mit Eckstein" / "Steamboat with Cornerstone" (Objekt / Object) (Dummy)
+0886 - "Freeze"
+0887 - Ansem der Weise / Ansem The Wise (Dummy)
+0888 - Schizo-Spuk / Trick Ghost (Freeze)
+0889 -  Gruselk・bis / Graveyard (Freeze)
+088A - Torw臘hter / Thresholder (Freeze)
+088B - Possessor (Freeze)
+088C - Kettenbalg / Shadow Stalker (Freeze)
+088D - Xemnas (Drache) / Xemnas (Dragon) (Boss!) (Freeze)
+088E - Roxas (im Schlafanzug) / Roxas (in Pajamas) (angreiffbar / attackable) (Dummy)
+088F - "Freeze"
+0890 - "Freeze"
+0891 - "Freeze"
+0892 - Sora (Sitzend / Sitting) (angreiffbar / attackable) (Dummy)
+0893 - Donald (Sitzend / Sitting) (angreiffbar / attackable) (Dummy)
+0894 - Goofy (Sitzend / Sitting) (angreiffbar / attackable) (Dummy)
+0895 - Chip (Dummy)
+0896 - Chap / Dale (Dummy)
+0897 - "Nichts" / "Nothing"
+0898 - "Nichts" / "Nothing"
+0899 - "Freeze"
+089A - Niemand vom Endkampf v1 / Nobody from Final Battle v1  (Gegner! / Enemy!)
+089B - Riku (Hovercraft)
+089C - Heyner (NPC) (Dummy)
+089D - Pence (NPC) (Dummy)
+089E - Olette (NPC) (Dummy)
+089F - Vivi (NPC) (Dummy)
+08A0 - Cifer / Seifer (NPC)(Dummy)
+08A1 - Setzer (NPC) (Dummy)
+08A2 - "Freeze"
+08A3 - "Freeze"
+08A4 - "Freeze"
+08A5 - "Freeze"
+08A6 - "Freeze"
+08A7 - Roxas (im Schlafanzug) / Roxas (in Pajamas) (Dummy)
+08A8 - D舂merling / Dusk (Dummy)
+08A9 - "Bahnhofseingang Twilight Town" / "Train Station Entrance Twilight Town" 
+08AA - Guy in brown pants from Twilight Town (NPC) (Dummy)
+08AB - Guy in purple pants from Twilight Town (NPC) (Dummy)
+08AC - Girl with pink dress from Twilight Town (NPC) (Dummy)
+08AD - Man with goatie from Twilight Town (NPC) (Dummy)
+08AE - Old lady from Twilight Town (NPC) (Dummy)
+08AF - Yen Sid (Sitzend / Sitting) (NPC) (Dummy)
+08B0 - "Nichts" / "Nothing"
+08B1 - "Freeze"
+08B2 - "Seltame Plattform..." / "Strange Platform"
+08B3 - "Kannst nicht mehr Weg"-Zustand / "Can't go out"-Status
+08B4 - "Showmaster vom Struggle-Turnier" / "Showmaster from Struggle Tournament" (NPC) (Dummy)
+08B5 - Axel (Twilight Town, 1. Battle) (Boss!)
+08B6 - Sephiroth (Boss!)
+08B7 - "Nichts" / "Nothing"
+08B8 - MCP (Freeze)
+08B9 - Ferkel / Piglet (NPC) (Dummy)
+08BA - "Freeze"
+08BB - "kleine Schatzkiste" / "tiny Treasure Chest" (Twilight Town) (Objekt / Object)
+08BC - "Schatzkiste" / "Treasure Chest" (Twilight Town) (Objekt / Object)
+08BD - Kairis Schl・selschwert / Kairi's Keyblade (Dummy)
+08BE - Bolzenturm / Bolt Tower (Das Land der Drachen / Land of Dragons) (Gegner! / Enemy!)
+08BF - Bolzenturm / Bolt Tower (Das Land der Drachen / Land of Dragons) (Gegner! / Enemy!)
+08C0 - Skateboard v1 (Halloween Town) (Objekt / Object)
+08C1 - Skateboard v2 (Fluss der Nostalgie / Timless River) (Objekt / Object)
+08C2 - Skateboard v3 (Agrabah) (Objekt / Object)
+08C3 - Skateboard v4 (Arena des Olypmps / Olympus Coliseum) (Objekt / Object)
+08C4 - Skateboard v5 (Port Royal) (Objekt / Object)
+08C5 - Skateboard v6 (Space Paranoids) (Objekt / Object)
+08C6 - "Freeze"
+08C7 - "Shooter-Niemand" (Xemnas-Drache)" / "Shooter-Nobody" (Xemnas-Dragon)"
+08C8 - "Freeze"
+08C9 - "Freeze"
+08CA -"Freeze"
+08CB - "Nichts" / "Nothing"
+08CC - Elizabeth Swann (Freeze)
+08CD - Will Turner (Freeze)
+08CE - "Eine Me" / "A Gull" (Anvisierbar / Targetable)
+08CF - "1000 Herzlosen Dummy" / "1000 Heartless Dummy"
+08D0 - Vivi (Boss!) (Spielabsturz nach dem Sieg / Game Crash after defeat)
+08D1 - Riku (vom Xemnas Kampf / from Xemnas Battle)
+08D2 - Sterbender Sora / Dying Sora (Wenn er von Xemnas Elektrisiert wird / when Xenmas electrifies him)
+08D3 - "Freeze"
+08D4 - Goofy (Space Paranoids) (NPC) (Dummy)
+08D5 - "Bomben-Niemand" (Xemnas-Drache)" / "Bomb-Nobody" (Xemnas-Dragon)"
+08D6 - Ariel (Dummy)
+08D7 - Ariel (Dummy)
+08D8 - Stitch (Dummy)
+08D9 - Vulkanlord / Volcano Lord (Dummy) (Freeze)
+08DA - Blizzardlord / Blizzard Lord (Dummy) (Freeze)
+08DB - Sensenmeister / Grim Reaper (Dummy) (Freeze)
+08DC - Gef舅gnisw舐ter / Prison Keeper (Dummy) (Freeze)
+08DD - Sturmreiter / Storm Rider (Dummy) (Freeze)
+08DE - Xigbar (Dummy) (Freeze)
+08DF - Sa・' (Dummy) (Freeze)
+08E0 - Zerberus / Cerberus (Dummy) (Freeze)
+08E1 - Hades (Dummy) (Freeze)
+08E2 - Hydra (Dummy) (Freeze)
+08E3 - Die Marionette / The Experiment (Dummy) (Freeze)
+08E4 - Sparrow (Dummy) (Freeze)
+08E5 - Barbossa (Dummy) (Freeze)
+08E6 - Xaldin (Dummy) (Freeze)
+08E7 - Vexen (Dummy) (Freeze)
+08E8 - Axel (Dummy) (Freeze)
+08E9 - Demyx (Dummy) (Freeze)
+08EA - Hercules (Dummy) (Freeze)
+08EB - Hercules (Dummy) (Freeze)
+08EC - Phil (Dummy) (Freeze)
+08ED - Niemand vom Endkampf v2 / Nobody from Final Battle v2  (Gegner! / Enemy!)
+08EE - "Luxords Karte" / "Luxord's attacking card" (Objekt / Object) (Dummy)
+08EF - T・ von Ansems Raum! / "Door from Ansems Room" (Objekt / Object) (Dummy)
+08F0 - Bolzenturm / Bolt Tower (Schloss Disney / Disney Castle) (Gegner! / Enemy!)
+08F1 - Sephiroth (Dummy) (Freeze)
+08F2 - Squall / Leon (Partner!) (Buggy)
+08F3 - Cloud (Partner!) (Buggy)
+08F4 - Tifa (Partner!) (Buggy)
+08F5 - Yuffie (Partner!) (Buggy)
+08F6 - Demyx Wasserklon / Demyx's Water Clone (Boss!)
+08F7 - Demyx (Boss!) (Hollow Bastion, 2. Battle) (Boss!)
+08F8 - Squall / Leon (Boss!)
+08F9 - Cloud (Boss!)
+08FA - Tifa (Boss!)
+08FB - Yuffie (Boss!)
+08FC - MCP (Dummy) (Freeze)
+08FD - Sparrow (NPC) (Dummy)
+08FE - Will Turner (NPC) (Dummy)
+08FF - "Freeze"
+0900 - Mogry  (NPC) (Dummy)
+0901 - Malefiz / Maleficient (Halloween Town Version) (T-Pose / T-Stance) (Dummy)
+0902 - Malefiz / Maleficient (Halloween Town Version) (T-Pose / T-Stance) (Dummy)
+0903 - kleines M臈chen im gr・en Kleid / little Girl with a green Dress (Dummy)
+0904 - Namin・(T-Pose / T-Stance) (Dummy)
+0905 - Typ mit gr・em Pulli / Guy with a green Pullover (Dummy)
+0906 - Junge mit gr・em Shirt / Boy with a Junge mit gr・em Shirt (Dummy)
+0907 - "Groﾟer Sack auf einem Wagen" / "Big Bag on a Wagon" (Objekt / Object)
+0908 - Jack Sparrow (Dummy)
+0909 - Jack Sparrow (Dummy)
+090A - Jack Sparrow (Untot / Undead) (Dummy)
+090B - Donald (Dummy)
+090C - Goofy (Dummy)
+090D - D舂merling / Dusk (geschlossener Mund (closed Mouth) (NPC) (Dummy)
+090E - Hades (Moiren-Cup / Goddess of Fate Cup Battle, Hades-Paradox Cup Battle)
+090F - Karlo / Pete (Hades-Paradox Cup Battle)
+0910 - Hercules (Titanen-Paradox / Titan-Paradox Cup Battle)
+0911 - Cloud (NPC) (Dummy)
+0912 - "Unsichtbares Ziel" / "Invisible Target"
+0913 - "Jack Sparrows Kompass" / "Jack Sparrows Compass" (Objekt / Object) (Dummy)
+0914 - Philoctetes (NPC) (Dummy)
+0915 - Unruh / Cogsworth (NPC) (Dummy)
+0916 - Elizabeth (NPC) (Dummy)
+0917 - Hayner (NPC) (Dummy)
+0918 - Xemnas (Finale / Final) (T-Pose / T-Stance) (Dummy)
+0919 - Raijin (NPC) (Dummy)
+091A - Fuujin (NPC) (Dummy)
+091B - "Groﾟes leeres Winnie Puuh Buch" / "Big blank Winnie Pooh Book) (Objekt / Object) (Dummy)
+091C - "Groﾟes Winnie Puuh Buch" / "Big Winnie Pooh Book) (Objekt / Object) (Dummy)
+091D - "Winnie Puuh Buch" / "Winnie Pooh Book) (Objekt / Object) (Dummy)
+091E - Hayner (NPC) (Dummy)
+091F - "Freeze"
+0920 - "Freeze"
+0921 - "Freeze"
+0922 - D舂merling / Dusk (NPC) (Dummy)
+0923 - Marluxia (Absent Silhouette) (Boss!)
+0924 - Ansem-Riku in cloak, no hood (dummy)
+0925 - Org XIII member, no face. (dummy)
+0926 - Mushroom No.1 (Gegner! / Enemy!)
+0927 - Mushroom No.2 (Gegner! / Enemy!)
+0928 - Mushroom No.3 (Gegner! / Enemy!)
+0929 - Mushroom No.4 (Gegner! / Enemy!)
+092A - Mushroom No.5 (Gegner! / Enemy!)
+092B - Mushroom No.6 (Gegner! / Enemy!)
+092C - Mushroom No.7 (Gegner! / Enemy!)
+092D - Mushroom No.8 (Gegner! / Enemy!)
+092E - Mushroom No.9 (Gegner! / Enemy!)
+092F - Mushroom No.10 (Gegner! / Enemy!)
+0930 - Mushroom No.11 (Gegner! / Enemy!)
+0931 - Mushroom No.12 (Gegner! / Enemy!)
+0932 - Mushroom No.13 (Gegner! / Enemy!)
+0933 - Vexen (Absent Silhouette) (Boss!)
+0934 - Vexen's Anti-Sora (Boss!)
+0935 - Lexaeus (Absent Silhouette) (Boss!)
+0936 - Cloaked duel weilding Roxas (Attackable dummy)
+0937 - Larxene (Absent Silhouette, doesn't fight back, and also can't be killed)
+0938 - Zexion (Absent Silhouette, attackable dummy)
+0939 - A Crossed Two keyblade (dummy)
+093A - 13 Mushrooms keyblade (dummy)
+093B - Nothing 
+093C - Nothing
+093D - Nothing
+093E - Nothing
+093F - Nothing 
+0940 - Nothing 
+0941 - Lexeus' weapon
+0942 - Mushroom staff weapon
+0943 - Nothing 
+0944 - Nothing
+0945 - Nothing
+0946 - Nothing
+0947 - Nothing
+0948 - Nothing
+0949 - Goofy's Vexen weapon (dummy)
+094A - Mushroom shield (dummy)
+094B - Nothing
+094C - Nothing
+094D - Nothing
+094E - Nothing
+094F - Nothing
+0950 - Nothing
+0951 - Roxas (Boss!)
+0952 - Nothing
+0953 - Nothing
+0954 - Whirlwind (jumpable)
+0955 - Sora (Christmas Town)
+0956 - Sora (Helden-Form / Valor Form) (Christmas Town)
+0957 - Sora (Weisen-Form / Wisdom Form) (Christmas Town)
+0958 - Sora (Meister-Form / Master Form) (Christmas Town)
+0959 - Sora (ﾜber-Form/ Final Form) (Christmas Town)
+095A - Sora (Anti-Form) (Christmas Town)
+095B - Donald (Christmas Town)
+095C - Goofy( Christmas Town)
+095D - Limit Form
+095E - Limit Form (Halloween Town)
+095F - Limit Form (Christmas Town)
+0960 - Limit Form (Space Paranoids)
+0961 - Limit Form (Fluss der Nostalgie / Timeless River)
+0962 - Larxene (Absent Silhouette) (Boss!)
+0963 - Magic Phantom (Gegner! / Enemy!)
+0964 - Perplex (Gegner! / Enemy!)
+0965 - Iron Hammer (Gegner! / Enemy!)
+0966 - Mad Bumper (Gegner! / Enemy!)
+0967 - Silent Launcher (Gegner! / Enemy!)
+0968 - Reckless (Gegner! / Enemy!)
+0969 - Lance Warrior (Gegner! / Enemy!)
+096A - Aerial Champ (Gegner! / Enemy!)
+096B - Necromancer (Gegner! / Enemy!)
+096C - Spring Metal (Gegner! / Enemy!)
+096D - Air Viking (Gegner! / Enemy!)
+096E - Rune Master (Gegner! / Enemy!)
+096F - Terra (Boss!)
+0970 - Pushing pillar from cave of remembrance
+0971 - Rising pillar from cave of remembrance
+0972 - Vexen's Absent Silhouette portal (can't be used)
+0973 - Lexeus' Absent Silhouette portal (can't be used)
+0974 - Zexion's Absent Silhouette portal (can't be used)
+0975 - Marluxia's Absent Silhouette portal (can't be used)
+0976 - Larxene's Absent Silhouette portal (can't be used)
+0977 - KH1 Ansem with Heartless guardian (dummy)
+0978 - Spiral pillar from Cave of Remebmrance
+0979 - Pillar on it's side from Cave of Remembrance (not solid)
+097A - Pillar from Cave of Remembrance (not solid)
+097B - Zexion (Absent Silhouette) (Boss!)
+097C - Freeze
+097D - Zexion's Book (Objekt / Object) (Boss!)
+097E - Nothing (?)
+097F - Limit form (dummy)
+0980 - Limit form (Halloween town, dummy)
+0981 - Sora (Christmas town, dummy)
+0982 - Sora (Christmas town, Valor Form, dummy)
+0983 - Sora (Christmas town, Wisdom Form, dummy)
+0984 - Sora (Christmas town, Limit Form, dummy)
+0985 - Sora (Christmas town, Master Form, dummy)
+0986 - Sora (Christmas town, Final Form, dummy)
+0987 - Sora (Space Paranoids form, Limit Form, dummy)
+0988 - Puzzle crown
+0989 - Save The Queen (Re-colour, dummy)
+098A - Donalds Lexeus weapon (Re-colour, dummy)
+098B - Mushroom wand (dummy)
+098C - Mushroom wand (dummy)
+098D - Mushroom wand (dummy)
+098E - Mushroom wand (dummy)
+098F - Nothing
+0990 - Nothing
+0991 - Nothing
+0992 - Nothing
+0993 - Nothing
+0994 - Nothing
+0998 - Nothing
+0999 - Freeze
+099A - Nothing
+099F - Nothing
+09A0 - Nothing
+09A1 - Save the King+
+09A2 - Freeze Pride+
+09A3 - Mushroom shield
+09A4 - Mushroom shield
+09A5 - Mushroom shield
+09A6 - Mushroom shield 
+09A7 - Nothing
+09A8 - Nothing
+09A9 - Nothing
+09AA - Nothing
+09AB - Nothing
+09AC - Nothing
+09AD - Nothing
+09AE - Nothing
+09AF - Nothing
+09B0 - Nothing
+09B1 - Nothing
+09B2 - Nothing
+09B3 - Nothing
+09B4 - Nothing
+09B5 - Nothing
+09B6 - Nothing
+09B7 - Nothing
+09B8 - Nothing
+09B9 - Cavern of Remembrance big pushing block
+09BA - Cavern of Remembrance red orb
+09BB - CoR small pushing block
+09BC - CoR blue orb
+09BD - CoR yellow orb
+09BE - CoR white orb
+09BF - CoR stone slab (invisible, has HP)
+09C0 - CoR steam wheel (invisible, has HP)
+09C1 - Nothing
+09C2 - Nothing
+09C2 - Nothing
+09C3 - Nothing
+09C4 - Axel (Limit Cut) (Boss!)
+09C5 - Xigbar (Limit Cut) (Boss!)
+09C6 - Sa・ (Limit Cut) (Boss!)
+09C7 - Nothing
+09C8 - Luxord (Limit Cut) (Boss!)
+09C9 - Xemnas (Limit Cut, Memory's Contortion)  (Boss!)
+09CA - Xemnas (Limit Cut, The World of Nothing?) (Boss!)
+09CB - Xaldin (Limit Cut) (Boss!)
+09CC - Demyx (Limit Cut) (Boss!)
+09CD - Freudenspender / Bulky Vendor (Halloween Town) (Gegner! / Enemy!)
+09CE - Garden of Assemblage door
+09CF - Freeze Pride
+09D0 - Freeze Pride+
+09D1 - Nothing
+09D2 - Freeze
+09D3 - Freeze
+09D4 - Freeze
+09D5 - Freeze
+09FA - Demyx Wasserklon / Demyx's Water Clone (Limit Cut) (Boss!)
+09FC - Sa・-Schwert / Sa・-Sword (Objekt / Object)
+09EB - Dancing Mushroom (Gegner! / Enemy!)
